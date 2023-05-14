@@ -9,8 +9,6 @@ import java.util.List;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
-
 public class ProceduralSystemGenerator {
     public static void main(String[] args) {
         List<StarData> starDataList = new ArrayList<>();
@@ -33,7 +31,19 @@ public class ProceduralSystemGenerator {
 
         // Imprime los sistemas estelares generados
         for (StarSystem system : systems) {
-            System.out.println(system);
+            //System.out.println(system);
+
+            // Crear un objeto ObjectMapper
+            ObjectMapper objectMapper = new ObjectMapper();
+
+            // Convertir el objeto a formato JSON
+            try {
+                // Imprime el sistema estelar en formato JSON
+                String jsonOutput = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(system);
+                System.out.println("Generated system:\n" + jsonOutput);
+            } catch (JsonProcessingException e) {
+                e.printStackTrace();
+            }
         }
     }
 
