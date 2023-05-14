@@ -2,7 +2,11 @@
 
 ## Description
 
-The Gaia Procedural Gen is a tool that generates simple stellar systems based on fictitious data derived from Gaia Sky. It is designed to be used as a generator for a future mobile simulator project. The generated systems are not based on real astronomical data but provide a realistic representation of stellar systems for simulation purposes.
+The Gaia Procedural Gen is a tool that generates fictitious stellar systems based on real data from the Gaia Sky catalogue DSR3. It is designed to serve as a generator for a future mobile simulator project.
+
+Please note that the generated systems are not real astronomical systems. While they are derived from actual Gaia data, they have been created specifically for simulation purposes.
+
+This tool is currently a work in progress and will form the foundation for a future mobile development project.
 
 ## Requirements
 
