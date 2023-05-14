@@ -40,7 +40,7 @@ public class ProceduralSystemGenerator {
             try {
                 // Imprime el sistema estelar en formato JSON
                 String jsonOutput = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(system);
-                System.out.println("Generated system:\n" + jsonOutput);
+                System.out.println("StarSystem" + jsonOutput);
             } catch (JsonProcessingException e) {
                 e.printStackTrace();
             }
