@@ -4,6 +4,15 @@
 
 The Gaia Procedural Gen is a tool that generates simple stellar systems based on fictitious data derived from Gaia Sky. It is designed to be used as a generator for a future mobile simulator project. The generated systems are not based on real astronomical data but provide a realistic representation of stellar systems for simulation purposes.
 
+## Requirements
+
+The Gaia Procedural Gen requires the following dependencies to be installed:
+
+- Java 8 or higher
+- Maven 3.6.3 or higher
+- Gaia Sky data release 3
+- Jackson library (com.fasterxml.jackson.core:jackson-databind:2.13.0)
+
 ## Usage
 
 To use the Gaia Procedural Gen, follow these steps:
