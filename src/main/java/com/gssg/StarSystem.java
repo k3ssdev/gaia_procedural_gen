@@ -50,6 +50,12 @@ public class StarSystem {
     }
     
     // Otros métodos relevantes de un sistema estelar
+
+    // Determinar tipo de estrella
+
+    // Determinar si un planeta es habitable
+
+    
     
     @Override
     public String toString() {

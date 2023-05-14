@@ -1026,6 +1026,40 @@ public class StarData {
         this.eclLat = eclLat;
     }
 
+    // Other methods
+
+    // Kind of object
+    public boolean isStar() {
+        return (this.photBpMeanMag != 0 && this.photRpMeanMag != 0);
+    }
+
+    public boolean isGalaxy() {
+        return (this.photBpMeanMag == 0 && this.photRpMeanMag == 0);
+    }
+
+    public boolean isUnknown() {
+        return (this.photBpMeanMag == 0 && this.photRpMeanMag != 0) ||
+                (this.photBpMeanMag != 0 && this.photRpMeanMag == 0);
+    }
+
+    /*
+     * designation: The object's designation can provide information about its type,
+     * such as "Star," "Galaxy," "Quasar," and so on.
+     * 
+     * phot_g_mean_mag, phot_bp_mean_mag, phot_rp_mean_mag: These fields represent
+     * magnitudes in different light bands (G, BP, RP). The combination of these
+     * magnitudes can help identify if the object is a star, a galaxy, or a more
+     * exotic object.
+     * 
+     * bp_rp: The BP-RP color index can be useful in distinguishing different types
+     * of objects, as it can provide information about the object's temperature or
+     * spectral features.
+     * 
+     * dr2_radial_velocity: Radial velocity can indicate whether the object is a
+     * star with peculiar motion or if it is associated with a more massive object
+     * such as a star cluster or a galaxy.
+     */
+
     // Override toString method
     @Override
     public String toString() {
