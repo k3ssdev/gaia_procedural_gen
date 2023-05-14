@@ -88,6 +88,22 @@ public class ProceduralSystemGenerator {
         double distance = Math.random() * 1000;
         double orbitalPeriod = Math.random() * 1000;
 
+        /*
+         * name: Es una cadena de texto que representa el nombre del planeta, por lo que
+         * no se aplica una unidad específica.
+         * mass: Se refiere a la masa del planeta. Las unidades comunes para la masa
+         * planetaria son masas terrestres (M⊕) o masas solares (M☉).
+         * radius: Representa el radio del planeta. Las unidades comunes para el radio
+         * planetario son radios terrestres (R⊕) o radios solares (R☉).
+         * distance: Indica la distancia del planeta a su estrella. Las unidades comunes
+         * para la distancia planetaria son unidades astronómicas (UA) o kilómetros
+         * (km).
+         * orbitalPeriod: Es el período orbital del planeta, es decir, el tiempo que
+         * tarda en completar una órbita alrededor de su estrella. Las unidades comunes
+         * para el período orbital son días, años terrestres (yr) o cualquier unidad de
+         * tiempo.
+         */
+
         return new Planet(name, mass, radius, distance, orbitalPeriod);
     }
 
