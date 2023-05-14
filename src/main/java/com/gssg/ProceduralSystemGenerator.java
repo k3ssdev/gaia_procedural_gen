@@ -1,11 +1,15 @@
 package com.gssg;
 
 /**
- * Hello world!
+ * Planetary system generator based on Gaia DR3 star data concept code by Alberto Pérez.
  *
  */
 import java.util.ArrayList;
 import java.util.List;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+
 
 public class ProceduralSystemGenerator {
     public static void main(String[] args) {
