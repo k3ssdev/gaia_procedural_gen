@@ -127,6 +127,7 @@ Star and planet objects are displayed in JSON format, with the following propert
    - Use SQL queries to perform operations such as searching, filtering, and updating data in the database.
 
 5. Generate a menu for interacting with the database and selecting generation options:
+   - All these features should be implemented through another framework, such as JavaFX or Swing, or maybe porting all the project to Unity/C#.
    - Develop a user-friendly menu system that allows users to interact with the Gaia Procedural Gen and select various options for generating stellar systems.
    - Implement menu functionality to display available actions, such as importing catalog data, generating systems, querying existing systems, and managing database settings.
    - Incorporate user input validation to ensure that valid options are selected and handle errors or invalid inputs gracefully.
