@@ -15,6 +15,10 @@ public class Star {
         this.distance = distance;
     }
     
+    public Star(String designation, double ra2, double dec2, double parallax, double l, double b, double photGMeanMag,
+            double dr2RadialVelocity, double bpRp) {
+    }
+
     // Getters y Setters
     public String getName() {
         return name;
