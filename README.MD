@@ -133,6 +133,17 @@ Star and planet objects are displayed in JSON format, with the following propert
    - Enable the ability to customize generation parameters through the menu, such as specifying the number of star systems, maximum number of planets, or other relevant parameters.
    - Provide feedback and status updates during the generation process, allowing users to monitor progress and receive notifications upon completion.
 
+6. Create a visual representation of the generated systems:
+   - Develop a graphical user interface (GUI) to display the generated systems in a visual format.
+   - Implement a 3D rendering engine to display the systems in a 3D environment.
+   - Use the Gaia Sky data release 3 to generate a 3D model of the Milky Way galaxy.
+      - The position data (l, b, ecl_lon, ecl_lat) represents the position of an object in space in terms of astronomical coordinates. These coordinates describe the object's location relative to a specific reference system.
+      - "l" (galactic longitude) and "b" (galactic latitude) define the object's position within the Galaxy. These coordinates are based on a galactic coordinate system and are used to locate the object within the Milky Way.
+      - "ecl_lon" (ecliptic longitude) and "ecl_lat" (ecliptic latitude) represent the object's position relative to the plane of the ecliptic, which is the plane defined by the Earth's orbit around the Sun. These coordinates are used to locate objects within the solar system.
+   - Integrate the 3D model of the Milky Way with the rendering engine to display the generated systems in the galaxy.
+   - Implement functionality to display the systems in the GUI, allowing users to navigate the galaxy and explore the systems.
+   - Provide options to customize the display of the systems, such as filtering by properties or highlighting specific objects.
+
 By adding this interactive menu system, users will have a more intuitive and flexible way to control the Gaia Procedural Gen, allowing them to choose specific options and generate stellar systems according to their preferences. This will also allow users to manage the database and perform operations such as searching and filtering systems, as well as updating or deleting existing systems.
 
 
