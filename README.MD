@@ -164,6 +164,10 @@ The Gaia Procedural Gen relies on the Gaia Sky data release 3, made available by
 https://www.cosmos.esa.int/web/gaia/data-release-3
 http://cdn.gea.esac.esa.int/Gaia/gedr3/gaia_source/
 
+This work has made use of data from the European Space Agency (ESA) mission Gaia (https://www.cosmos.esa.int/gaia), processed by the Gaia Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the Gaia Multilateral Agreement.
+
+http://esdcdoi.esac.esa.int/doi/html/data/astronomy/gaia/DR3.html
+
 ## Contact
 
 If you have any questions or comments, please contact me at:
