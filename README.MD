@@ -113,6 +113,11 @@ Star and planet objects are displayed in JSON format, with the following propert
    - Use algorithms or patterns to assign names based on features such as the host star, the order of the planets, or specific characteristics of each planet.
 
 3. Incorporate different stellar objects into the systems:
+   - Discriminate between different types of objects in the catalog, such as stars, planets, and other objects, using the following fields:
+      - designation: The object's designation can provide information about its type, such as "Star," "Galaxy," "Quasar," and so on.
+      - phot_g_mean_mag, phot_bp_mean_mag, phot_rp_mean_mag: These fields represent magnitudes in different light bands (G, BP, RP). The combination of these magnitudes can help identify if the object is a star, a galaxy, or a more exotic object.
+      - bp_rp: The BP-RP color index can be useful in distinguishing different types of objects, as it can provide information about the object's temperature or spectral features.
+      - dr2_radial_velocity: Radial velocity can indicate whether the object is a star with peculiar motion or if it is associated with a more massive object such as a star cluster or a galaxy.
    - Expand the generation of stellar systems to include different types of objects, such as binary stars, neutron stars, black holes, among others.
    - Develop the rules and algorithms necessary to generate systems that contain these objects, considering their properties and gravitational relationships.
 
