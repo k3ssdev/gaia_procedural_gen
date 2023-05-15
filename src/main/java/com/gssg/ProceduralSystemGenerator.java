@@ -49,44 +49,53 @@ public class ProceduralSystemGenerator {
     // Generates a list of star systems from a list of star data
     private static List<StarSystem> generateSystems(List<StarData> starDataList) {
         List<StarSystem> systems = new ArrayList<>();
+
+        /*
+         * Atributes of a starData object:
+         * designation: The name or identifier of the star.
+         * ra: Right ascension, which represents the star's position on the celestial
+         * sphere.
+         * dec: Declination, which represents the star's position on the celestial
+         * sphere.
+         * parallax: The parallax measurement of the star, providing information about
+         * its distance.
+         * l: Galactic longitude, indicating the star's position in the galaxy.
+         * b: Galactic latitude, indicating the star's position in the galaxy.
+         * photGMeanMag: The mean magnitude of the star in the G-band, providing
+         * information about its brightness.
+         * dr2RadialVelocity: Radial velocity, indicating the star's motion towards or
+         * away from us.
+         * bpRp: Color index representing the difference in magnitude between the Bp and
+         * Rp bands, which can provide information about the star's temperature and
+         * color.
+         */
+
         // Generate a star system for each star data object
         for (StarData starData : starDataList) {
 
-            /*
-             * Atributes of a starData object:
-             * designation: The name or identifier of the star.
-             * ra: Right ascension, which represents the star's position on the celestial
-             * sphere.
-             * dec: Declination, which represents the star's position on the celestial
-             * sphere.
-             * parallax: The parallax measurement of the star, providing information about
-             * its distance.
-             * l: Galactic longitude, indicating the star's position in the galaxy.
-             * b: Galactic latitude, indicating the star's position in the galaxy.
-             * photGMeanMag: The mean magnitude of the star in the G-band, providing
-             * information about its brightness.
-             * dr2RadialVelocity: Radial velocity, indicating the star's motion towards or
-             * away from us.
-             * bpRp: Color index representing the difference in magnitude between the Bp and
-             * Rp bands, which can provide information about the star's temperature and
-             * color.
-             */
+            if (starData.isStar()) {
+                Star star = new Star(starData.getDesignation(), starData.getRa(), starData.getDec(),
+                        starData.getParallax(),
+                        starData.getL(), starData.getB(), starData.getPhotGMeanMag(), starData.getDr2RadialVelocity(),
+                        starData.getBpRp());
+                star.setParsecs();
+                star.setYearLight();
+                StarSystem system = new StarSystem(starData.getDesignation(), star);
 
-            Star star = new Star(starData.getDesignation(), starData.getRa(), starData.getDec(), starData.getParallax(),
-                    starData.getL(), starData.getB(), starData.getPhotGMeanMag(), starData.getDr2RadialVelocity(),
-                    starData.getBpRp());
-            star.setParsecs();
-            star.setYearLight();
-            StarSystem system = new StarSystem(starData.getDesignation(), star);
+                // Generate a random number of planets for the star system up to 20
+                int numPlanets = (int) (Math.random() * 20);
+                for (int i = 0; i < numPlanets; i++) {
+                    Planet planet = generatePlanet(system, i + 1);
+                    system.addPlanet(planet);
+                }
+                // Add the star system to the list of systems
+                systems.add(system);
+            } else {
+                
+                // 
 
-            // Generate a random number of planets for the star system up to 20
-            int numPlanets = (int) (Math.random() * 20);
-            for (int i = 0; i < numPlanets; i++) {
-                Planet planet = generatePlanet(system, i + 1);
-                system.addPlanet(planet);
             }
-            // Add the star system to the list of systems
-            systems.add(system);
+
         }
 
         return systems;
