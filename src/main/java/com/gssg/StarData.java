@@ -1030,16 +1030,17 @@ public class StarData {
 
     // Kind of object
     public boolean isStar() {
-        return (this.photBpMeanMag != 0 && this.photRpMeanMag != 0);
+        return (this.photBpMeanMag != 0 && this.photRpMeanMag != 0 && this.photGMeanMag != 0);
     }
 
     public boolean isGalaxy() {
-        return (this.photBpMeanMag == 0 && this.photRpMeanMag == 0);
+        return (this.photBpMeanMag == 0 && this.photRpMeanMag == 0 && this.photGMeanMag == 0);
     }
 
     public boolean isUnknown() {
-        return (this.photBpMeanMag == 0 && this.photRpMeanMag != 0) ||
-                (this.photBpMeanMag != 0 && this.photRpMeanMag == 0);
+        return ((this.photBpMeanMag == 0 && this.photRpMeanMag != 0 && this.photGMeanMag != 0) ||
+                (this.photBpMeanMag != 0 && this.photRpMeanMag == 0 && this.photGMeanMag != 0) ||
+                (this.photBpMeanMag != 0 && this.photRpMeanMag != 0 && this.photGMeanMag == 0));
     }
 
     /*
