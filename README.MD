@@ -168,12 +168,6 @@ This work has made use of data from the European Space Agency (ESA) mission Gaia
 
 http://esdcdoi.esac.esa.int/doi/html/data/astronomy/gaia/DR3.html
 
-## Contact
-
-If you have any questions or comments, please contact me at:
-
-k3ssdev@proton.me
-
 ## Authors
 
-* **Alberto Pérez** - [k3ssdev](k3ssdev@proton.me)
+* **Alberto Pérez** - k3ssdev@proton.me
