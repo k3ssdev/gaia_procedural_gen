@@ -15,82 +15,40 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_4295806720_P1",
-    "mass" : 70.95977699488361,
-    "radius" : 7.07353263024907,
-    "distanceFromStar" : 151.90396239605764,
-    "orbitalPeriod" : 566.590289462412
+    "mass" : 50.6302582336922,
+    "radius" : 7.4566254251819375,
+    "distanceFromStar" : 995.1545290361728,
+    "orbitalPeriod" : 391.0009574705516
   }, {
     "name" : "Gaia_EDR3_4295806720_P2",
-    "mass" : 83.16270192252351,
-    "radius" : 3.3465653195296516,
-    "distanceFromStar" : 617.6424635998993,
-    "orbitalPeriod" : 85.4549066849527
+    "mass" : 27.365404503332837,
+    "radius" : 7.25084896539724,
+    "distanceFromStar" : 718.9229022379998,
+    "orbitalPeriod" : 392.6758956953168
   }, {
     "name" : "Gaia_EDR3_4295806720_P3",
-    "mass" : 83.82007139942654,
-    "radius" : 2.4735001499322005,
-    "distanceFromStar" : 550.2016564882275,
-    "orbitalPeriod" : 304.1621513062902
+    "mass" : 44.386584363041024,
+    "radius" : 2.863640167022048,
+    "distanceFromStar" : 2.9624238207837106,
+    "orbitalPeriod" : 815.6848462713692
   }, {
     "name" : "Gaia_EDR3_4295806720_P4",
-    "mass" : 50.66058998123326,
-    "radius" : 8.735872949516331,
-    "distanceFromStar" : 557.6831035514915,
-    "orbitalPeriod" : 305.7966957405912
+    "mass" : 65.8063172166,
+    "radius" : 4.31628761318406,
+    "distanceFromStar" : 857.218815437963,
+    "orbitalPeriod" : 228.0981116641416
   }, {
     "name" : "Gaia_EDR3_4295806720_P5",
-    "mass" : 42.508013164200634,
-    "radius" : 6.8990820284286425,
-    "distanceFromStar" : 47.18546713631755,
-    "orbitalPeriod" : 709.6133171717041
+    "mass" : 87.41614210684514,
+    "radius" : 5.242092873839511,
+    "distanceFromStar" : 992.7968382329798,
+    "orbitalPeriod" : 245.76852975553953
   }, {
     "name" : "Gaia_EDR3_4295806720_P6",
-    "mass" : 1.876481023225307,
-    "radius" : 5.74343710278256,
-    "distanceFromStar" : 936.7552675777828,
-    "orbitalPeriod" : 207.442420509235
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P7",
-    "mass" : 75.74756172986503,
-    "radius" : 7.019716877547216,
-    "distanceFromStar" : 998.9991134319371,
-    "orbitalPeriod" : 477.7665080451986
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P8",
-    "mass" : 85.73320632005921,
-    "radius" : 5.75483350910587,
-    "distanceFromStar" : 8.262914451345416,
-    "orbitalPeriod" : 605.6723981775723
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P9",
-    "mass" : 14.082784806987291,
-    "radius" : 2.999218807849421,
-    "distanceFromStar" : 606.4474642546705,
-    "orbitalPeriod" : 669.109939858064
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P10",
-    "mass" : 10.371200014453441,
-    "radius" : 0.08605990436256983,
-    "distanceFromStar" : 76.94432510482585,
-    "orbitalPeriod" : 465.364571691791
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P11",
-    "mass" : 65.20905438333968,
-    "radius" : 4.263531620252007,
-    "distanceFromStar" : 21.839507800124114,
-    "orbitalPeriod" : 446.3780815466072
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P12",
-    "mass" : 41.94468441526773,
-    "radius" : 9.164683310238326,
-    "distanceFromStar" : 274.4467439338132,
-    "orbitalPeriod" : 807.5277396952736
-  }, {
-    "name" : "Gaia_EDR3_4295806720_P13",
-    "mass" : 5.0818575054834,
-    "radius" : 9.995658698284224,
-    "distanceFromStar" : 247.3963016197641,
-    "orbitalPeriod" : 331.7014222339949
+    "mass" : 58.37489969376667,
+    "radius" : 4.686271832286808,
+    "distanceFromStar" : 183.03139607520734,
+    "orbitalPeriod" : 974.4183573502205
   } ]
 }, {
   "name" : "Gaia EDR3 34361129088",
@@ -109,46 +67,82 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_34361129088_P1",
-    "mass" : 25.514403358673764,
-    "radius" : 3.1591909059959136,
-    "distanceFromStar" : 28.98189512201055,
-    "orbitalPeriod" : 726.9380481453055
+    "mass" : 17.9496367308564,
+    "radius" : 5.720160612530404,
+    "distanceFromStar" : 425.4668466093815,
+    "orbitalPeriod" : 232.3179704650097
   }, {
     "name" : "Gaia_EDR3_34361129088_P2",
-    "mass" : 72.09325152758923,
-    "radius" : 7.666300729041864,
-    "distanceFromStar" : 831.9812500929032,
-    "orbitalPeriod" : 949.36943384332
+    "mass" : 72.48635551826726,
+    "radius" : 3.6421302290405366,
+    "distanceFromStar" : 514.2714464593354,
+    "orbitalPeriod" : 673.1906799053761
   }, {
     "name" : "Gaia_EDR3_34361129088_P3",
-    "mass" : 39.03855043907187,
-    "radius" : 3.0402908528941275,
-    "distanceFromStar" : 607.841550207745,
-    "orbitalPeriod" : 814.1047681291445
+    "mass" : 42.11180882753462,
+    "radius" : 4.469330481634724,
+    "distanceFromStar" : 156.68238261901524,
+    "orbitalPeriod" : 617.0450026396355
   }, {
     "name" : "Gaia_EDR3_34361129088_P4",
-    "mass" : 17.529405797868456,
-    "radius" : 1.0010085108299671,
-    "distanceFromStar" : 530.1457769990443,
-    "orbitalPeriod" : 976.1304278178224
+    "mass" : 32.94532008580261,
+    "radius" : 1.468877700491994,
+    "distanceFromStar" : 668.2866871762136,
+    "orbitalPeriod" : 626.5303100026167
   }, {
     "name" : "Gaia_EDR3_34361129088_P5",
-    "mass" : 74.8343463947153,
-    "radius" : 8.968108509951538,
-    "distanceFromStar" : 417.4586297607217,
-    "orbitalPeriod" : 847.557407609485
+    "mass" : 5.796166378700917,
+    "radius" : 5.026806963695347,
+    "distanceFromStar" : 140.44475370976895,
+    "orbitalPeriod" : 18.46712649360327
   }, {
     "name" : "Gaia_EDR3_34361129088_P6",
-    "mass" : 0.9542054851518489,
-    "radius" : 7.269566311095853,
-    "distanceFromStar" : 989.9438574039615,
-    "orbitalPeriod" : 170.32566086829948
+    "mass" : 50.88007777045951,
+    "radius" : 1.470174128106282,
+    "distanceFromStar" : 718.1982794553927,
+    "orbitalPeriod" : 176.4779319056604
   }, {
     "name" : "Gaia_EDR3_34361129088_P7",
-    "mass" : 53.08008045969456,
-    "radius" : 4.057493730208899,
-    "distanceFromStar" : 121.48122023598185,
-    "orbitalPeriod" : 595.3714912273997
+    "mass" : 22.646309161129075,
+    "radius" : 1.3557984375900833,
+    "distanceFromStar" : 737.3561660914211,
+    "orbitalPeriod" : 571.8935830641703
+  }, {
+    "name" : "Gaia_EDR3_34361129088_P8",
+    "mass" : 30.10406356958032,
+    "radius" : 8.339228101368953,
+    "distanceFromStar" : 491.5401448314234,
+    "orbitalPeriod" : 628.2200217854943
+  }, {
+    "name" : "Gaia_EDR3_34361129088_P9",
+    "mass" : 35.94724910151177,
+    "radius" : 2.794158985625316,
+    "distanceFromStar" : 994.699680751608,
+    "orbitalPeriod" : 510.7387246634254
+  }, {
+    "name" : "Gaia_EDR3_34361129088_P10",
+    "mass" : 3.8116280601554697,
+    "radius" : 2.7216725259358023,
+    "distanceFromStar" : 480.5815507981601,
+    "orbitalPeriod" : 900.3532347484213
+  }, {
+    "name" : "Gaia_EDR3_34361129088_P11",
+    "mass" : 47.15868158834821,
+    "radius" : 8.170302369185183,
+    "distanceFromStar" : 537.8661811313375,
+    "orbitalPeriod" : 819.5838401605382
+  }, {
+    "name" : "Gaia_EDR3_34361129088_P12",
+    "mass" : 75.56553774069248,
+    "radius" : 4.382077276290638,
+    "distanceFromStar" : 718.1596571135958,
+    "orbitalPeriod" : 618.650511875318
+  }, {
+    "name" : "Gaia_EDR3_34361129088_P13",
+    "mass" : 4.610609063726301,
+    "radius" : 3.1863305941494047,
+    "distanceFromStar" : 173.7565382801629,
+    "orbitalPeriod" : 300.87433743519875
   } ]
 }, {
   "name" : "Gaia EDR3 38655544960",
@@ -167,28 +161,112 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_38655544960_P1",
-    "mass" : 6.366365066965329,
-    "radius" : 0.7193267279006799,
-    "distanceFromStar" : 359.5971063902207,
-    "orbitalPeriod" : 655.0768445836987
+    "mass" : 17.82206686126774,
+    "radius" : 3.830653088270867,
+    "distanceFromStar" : 469.16577644686464,
+    "orbitalPeriod" : 58.76936429300106
   }, {
     "name" : "Gaia_EDR3_38655544960_P2",
-    "mass" : 64.05080357424448,
-    "radius" : 3.7268407845224374,
-    "distanceFromStar" : 942.0205320529664,
-    "orbitalPeriod" : 865.5619088374125
+    "mass" : 29.8243462832385,
+    "radius" : 3.038150691825081,
+    "distanceFromStar" : 309.15824504894493,
+    "orbitalPeriod" : 278.12229042082623
   }, {
     "name" : "Gaia_EDR3_38655544960_P3",
-    "mass" : 44.13327871323553,
-    "radius" : 5.083152650578712,
-    "distanceFromStar" : 401.7730572715671,
-    "orbitalPeriod" : 328.7580454366467
+    "mass" : 12.35080872933172,
+    "radius" : 3.5763822573716517,
+    "distanceFromStar" : 189.58308640654786,
+    "orbitalPeriod" : 923.4267903491761
   }, {
     "name" : "Gaia_EDR3_38655544960_P4",
-    "mass" : 56.67054007626153,
-    "radius" : 7.882274929691166,
-    "distanceFromStar" : 953.1505557637984,
-    "orbitalPeriod" : 646.3390702031057
+    "mass" : 42.96633215031165,
+    "radius" : 4.943507303986314,
+    "distanceFromStar" : 656.7727588655927,
+    "orbitalPeriod" : 303.8608883259328
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P5",
+    "mass" : 12.989072320879902,
+    "radius" : 2.1022809934130415,
+    "distanceFromStar" : 827.7167247861312,
+    "orbitalPeriod" : 394.80387137980676
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P6",
+    "mass" : 41.339111449016656,
+    "radius" : 8.01801837237917,
+    "distanceFromStar" : 444.88446039134266,
+    "orbitalPeriod" : 128.50221370407755
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P7",
+    "mass" : 5.749407244114124,
+    "radius" : 3.2517738190737813,
+    "distanceFromStar" : 146.0685049273277,
+    "orbitalPeriod" : 713.5144473832735
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P8",
+    "mass" : 43.58818832192488,
+    "radius" : 7.006013541050078,
+    "distanceFromStar" : 823.7900592256464,
+    "orbitalPeriod" : 637.9950222522904
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P9",
+    "mass" : 95.73338025881807,
+    "radius" : 1.529826289054731,
+    "distanceFromStar" : 301.348287936633,
+    "orbitalPeriod" : 528.4782059968635
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P10",
+    "mass" : 41.25596420320357,
+    "radius" : 7.112980321464068,
+    "distanceFromStar" : 936.383547163727,
+    "orbitalPeriod" : 833.6753006966612
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P11",
+    "mass" : 98.11068410298057,
+    "radius" : 8.032899931652791,
+    "distanceFromStar" : 177.86430958201584,
+    "orbitalPeriod" : 381.8994053836493
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P12",
+    "mass" : 45.59885231511419,
+    "radius" : 0.7659052179445236,
+    "distanceFromStar" : 548.6959532401655,
+    "orbitalPeriod" : 221.08402002457217
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P13",
+    "mass" : 58.059409946682614,
+    "radius" : 4.533816798436488,
+    "distanceFromStar" : 3.6891725073944226,
+    "orbitalPeriod" : 791.9628486725173
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P14",
+    "mass" : 26.06088220631615,
+    "radius" : 0.8293017592054264,
+    "distanceFromStar" : 121.41442917005286,
+    "orbitalPeriod" : 407.8303641357901
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P15",
+    "mass" : 81.30813825810841,
+    "radius" : 2.9480928094252423,
+    "distanceFromStar" : 128.50824253462756,
+    "orbitalPeriod" : 218.4033909760289
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P16",
+    "mass" : 34.54442918653253,
+    "radius" : 8.753489186858781,
+    "distanceFromStar" : 326.2862211777705,
+    "orbitalPeriod" : 320.6565752387182
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P17",
+    "mass" : 81.92045406523764,
+    "radius" : 9.908302843717525,
+    "distanceFromStar" : 92.05613356559405,
+    "orbitalPeriod" : 446.1051594279588
+  }, {
+    "name" : "Gaia_EDR3_38655544960_P18",
+    "mass" : 34.61868004280634,
+    "radius" : 8.631686036067563,
+    "distanceFromStar" : 261.31448863789785,
+    "orbitalPeriod" : 701.8607398573273
   } ]
 }, {
   "name" : "Gaia EDR3 309238066432",
@@ -207,34 +285,94 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_309238066432_P1",
-    "mass" : 83.42846999902899,
-    "radius" : 2.167141323523353,
-    "distanceFromStar" : 919.4119635637107,
-    "orbitalPeriod" : 93.1476625519605
+    "mass" : 86.73041456835718,
+    "radius" : 3.6204804220583133,
+    "distanceFromStar" : 171.88693862854842,
+    "orbitalPeriod" : 798.0646765672977
   }, {
     "name" : "Gaia_EDR3_309238066432_P2",
-    "mass" : 92.40005584258788,
-    "radius" : 5.004742372907112,
-    "distanceFromStar" : 291.9798471942471,
-    "orbitalPeriod" : 852.6055346081025
+    "mass" : 6.4247736733782705,
+    "radius" : 8.686515925735316,
+    "distanceFromStar" : 795.2336642256452,
+    "orbitalPeriod" : 986.9437944849852
   }, {
     "name" : "Gaia_EDR3_309238066432_P3",
-    "mass" : 2.3530632385298067,
-    "radius" : 4.11482148786377,
-    "distanceFromStar" : 29.440107994397337,
-    "orbitalPeriod" : 554.9228339601507
+    "mass" : 30.970406101109514,
+    "radius" : 3.7051181778798368,
+    "distanceFromStar" : 829.6297603782883,
+    "orbitalPeriod" : 100.90113475023044
   }, {
     "name" : "Gaia_EDR3_309238066432_P4",
-    "mass" : 72.0705224891569,
-    "radius" : 0.7569092303896019,
-    "distanceFromStar" : 635.8103756866005,
-    "orbitalPeriod" : 476.06315262914364
+    "mass" : 98.54223237381608,
+    "radius" : 3.0909655366619804,
+    "distanceFromStar" : 381.66625979287295,
+    "orbitalPeriod" : 639.2541502463412
   }, {
     "name" : "Gaia_EDR3_309238066432_P5",
-    "mass" : 42.55648379349651,
-    "radius" : 2.5273784470401983,
-    "distanceFromStar" : 936.2263485130227,
-    "orbitalPeriod" : 708.7630157313775
+    "mass" : 8.8900643073057,
+    "radius" : 7.274273277508544,
+    "distanceFromStar" : 938.9029787249113,
+    "orbitalPeriod" : 607.7687245488437
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P6",
+    "mass" : 88.6796634848041,
+    "radius" : 2.9710275730806024,
+    "distanceFromStar" : 574.5835503631037,
+    "orbitalPeriod" : 771.7495891052012
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P7",
+    "mass" : 58.83739293497958,
+    "radius" : 7.405789369970863,
+    "distanceFromStar" : 512.2452640851845,
+    "orbitalPeriod" : 28.64626142010096
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P8",
+    "mass" : 52.75403260531236,
+    "radius" : 6.502020614582133,
+    "distanceFromStar" : 35.36152042703522,
+    "orbitalPeriod" : 292.7828278087064
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P9",
+    "mass" : 15.550982743518805,
+    "radius" : 6.205279368567485,
+    "distanceFromStar" : 306.2565217946984,
+    "orbitalPeriod" : 590.4845948089996
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P10",
+    "mass" : 74.08482246105555,
+    "radius" : 5.567517350110602,
+    "distanceFromStar" : 518.8832365846207,
+    "orbitalPeriod" : 900.7884235052411
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P11",
+    "mass" : 4.963710629454255,
+    "radius" : 9.996105858176595,
+    "distanceFromStar" : 951.6571613966601,
+    "orbitalPeriod" : 645.0870815575967
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P12",
+    "mass" : 43.57189266976751,
+    "radius" : 3.1591044949379032,
+    "distanceFromStar" : 909.3903051538525,
+    "orbitalPeriod" : 628.4732550183635
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P13",
+    "mass" : 70.94617164360038,
+    "radius" : 6.438683815828883,
+    "distanceFromStar" : 247.47086358392278,
+    "orbitalPeriod" : 666.2114409911229
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P14",
+    "mass" : 87.32085524975457,
+    "radius" : 5.537493420190125,
+    "distanceFromStar" : 156.7860457105621,
+    "orbitalPeriod" : 90.6812168782395
+  }, {
+    "name" : "Gaia_EDR3_309238066432_P15",
+    "mass" : 31.255400383308906,
+    "radius" : 4.868168152121317,
+    "distanceFromStar" : 154.487099741902,
+    "orbitalPeriod" : 827.2988820160502
   } ]
 }, {
   "name" : "Gaia EDR3 343597448960",
@@ -253,16 +391,40 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_343597448960_P1",
-    "mass" : 67.23387261118204,
-    "radius" : 7.5535729590746215,
-    "distanceFromStar" : 827.5169853608481,
-    "orbitalPeriod" : 852.5216548054802
+    "mass" : 16.940485659730964,
+    "radius" : 7.735464809073335,
+    "distanceFromStar" : 752.3384429911861,
+    "orbitalPeriod" : 849.5456378588138
   }, {
     "name" : "Gaia_EDR3_343597448960_P2",
-    "mass" : 99.02740065433264,
-    "radius" : 8.07736806892308,
-    "distanceFromStar" : 307.0810333768188,
-    "orbitalPeriod" : 993.7206141650562
+    "mass" : 36.39585638057338,
+    "radius" : 2.7315981177693227,
+    "distanceFromStar" : 601.2372158541298,
+    "orbitalPeriod" : 390.65403309288706
+  }, {
+    "name" : "Gaia_EDR3_343597448960_P3",
+    "mass" : 51.51790315584787,
+    "radius" : 8.023955744704747,
+    "distanceFromStar" : 782.8855146636639,
+    "orbitalPeriod" : 185.69197453121987
+  }, {
+    "name" : "Gaia_EDR3_343597448960_P4",
+    "mass" : 7.694764815952926,
+    "radius" : 8.410982166050726,
+    "distanceFromStar" : 73.56349456997702,
+    "orbitalPeriod" : 785.0690887279728
+  }, {
+    "name" : "Gaia_EDR3_343597448960_P5",
+    "mass" : 56.4494051944927,
+    "radius" : 4.1490084007489205,
+    "distanceFromStar" : 313.60257498055455,
+    "orbitalPeriod" : 832.4567274848243
+  }, {
+    "name" : "Gaia_EDR3_343597448960_P6",
+    "mass" : 66.63107726195987,
+    "radius" : 5.353062845469453,
+    "distanceFromStar" : 910.5131646877047,
+    "orbitalPeriod" : 87.3544980163794
   } ]
 }, {
   "name" : "Gaia EDR3 515396233856",
@@ -281,106 +443,10 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_515396233856_P1",
-    "mass" : 68.26071042250486,
-    "radius" : 8.205010550299546,
-    "distanceFromStar" : 913.0901011619052,
-    "orbitalPeriod" : 785.5900078001786
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P2",
-    "mass" : 35.37279574242166,
-    "radius" : 5.6708759437198255,
-    "distanceFromStar" : 97.75079738544123,
-    "orbitalPeriod" : 461.16234377116626
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P3",
-    "mass" : 47.37017304159077,
-    "radius" : 3.3642236293275007,
-    "distanceFromStar" : 941.2332465137968,
-    "orbitalPeriod" : 749.4140825970461
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P4",
-    "mass" : 82.27185639842702,
-    "radius" : 1.0139524158134494,
-    "distanceFromStar" : 375.0045912916575,
-    "orbitalPeriod" : 365.452702932204
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P5",
-    "mass" : 67.3226274983035,
-    "radius" : 5.514356784886174,
-    "distanceFromStar" : 117.35164037834478,
-    "orbitalPeriod" : 842.0797058990738
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P6",
-    "mass" : 50.488224688144356,
-    "radius" : 1.265154123402994,
-    "distanceFromStar" : 478.3713515956094,
-    "orbitalPeriod" : 517.1325111289041
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P7",
-    "mass" : 45.82452173517022,
-    "radius" : 7.931643572322477,
-    "distanceFromStar" : 629.5467710179367,
-    "orbitalPeriod" : 640.6621579081891
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P8",
-    "mass" : 15.101664200599863,
-    "radius" : 0.15654797140440935,
-    "distanceFromStar" : 997.3625136189659,
-    "orbitalPeriod" : 47.77830609720457
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P9",
-    "mass" : 99.72436032103887,
-    "radius" : 1.1867379333511618,
-    "distanceFromStar" : 972.6408585598987,
-    "orbitalPeriod" : 226.78156250747705
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P10",
-    "mass" : 96.77454165361384,
-    "radius" : 5.122172849964672,
-    "distanceFromStar" : 440.75582155177216,
-    "orbitalPeriod" : 27.242991900051305
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P11",
-    "mass" : 80.91291269430509,
-    "radius" : 0.5510350502450545,
-    "distanceFromStar" : 732.6093054326084,
-    "orbitalPeriod" : 698.9787678591654
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P12",
-    "mass" : 9.910952839893339,
-    "radius" : 1.7041771179245813,
-    "distanceFromStar" : 472.2300072251326,
-    "orbitalPeriod" : 430.4080027967415
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P13",
-    "mass" : 15.745149076025056,
-    "radius" : 1.9436398910409691,
-    "distanceFromStar" : 454.0819370623777,
-    "orbitalPeriod" : 63.57012806047258
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P14",
-    "mass" : 75.47038372842081,
-    "radius" : 8.394136912352346,
-    "distanceFromStar" : 121.64667160319608,
-    "orbitalPeriod" : 203.11742695891476
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P15",
-    "mass" : 76.49953811584695,
-    "radius" : 5.8330508055189325,
-    "distanceFromStar" : 438.5693036112367,
-    "orbitalPeriod" : 507.88765081820605
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P16",
-    "mass" : 39.451546185742345,
-    "radius" : 2.5736164785501425,
-    "distanceFromStar" : 944.6351722506439,
-    "orbitalPeriod" : 556.2004898015016
-  }, {
-    "name" : "Gaia_EDR3_515396233856_P17",
-    "mass" : 38.39031239401665,
-    "radius" : 1.0076146911175465,
-    "distanceFromStar" : 571.0704960749816,
-    "orbitalPeriod" : 309.81056259578276
+    "mass" : 55.11457008417413,
+    "radius" : 1.6423379680347872,
+    "distanceFromStar" : 401.77466051722735,
+    "orbitalPeriod" : 21.6319786843443
   } ]
 }, {
   "name" : "Gaia EDR3 549755818112",
@@ -399,76 +465,76 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_549755818112_P1",
-    "mass" : 7.180363715486493,
-    "radius" : 3.5313721782684713,
-    "distanceFromStar" : 866.4889494338439,
-    "orbitalPeriod" : 6.483574490743327
+    "mass" : 17.332159642914434,
+    "radius" : 9.052251355970085,
+    "distanceFromStar" : 976.9905845605325,
+    "orbitalPeriod" : 260.63450609186725
   }, {
     "name" : "Gaia_EDR3_549755818112_P2",
-    "mass" : 26.288205670024702,
-    "radius" : 5.227183526408465,
-    "distanceFromStar" : 887.4946146325308,
-    "orbitalPeriod" : 755.8914368753188
+    "mass" : 35.5317506368604,
+    "radius" : 9.656487494422986,
+    "distanceFromStar" : 208.1069413416825,
+    "orbitalPeriod" : 185.44712447302848
   }, {
     "name" : "Gaia_EDR3_549755818112_P3",
-    "mass" : 85.2790781776532,
-    "radius" : 5.895669803134743,
-    "distanceFromStar" : 813.7349620836906,
-    "orbitalPeriod" : 751.862999071168
+    "mass" : 42.01841657558728,
+    "radius" : 5.887025617326167,
+    "distanceFromStar" : 562.2880724713772,
+    "orbitalPeriod" : 654.5870693876441
   }, {
     "name" : "Gaia_EDR3_549755818112_P4",
-    "mass" : 14.81492620305006,
-    "radius" : 9.27118650185193,
-    "distanceFromStar" : 743.2055314662285,
-    "orbitalPeriod" : 59.88393814209469
+    "mass" : 97.26279999677664,
+    "radius" : 7.9373811569505035,
+    "distanceFromStar" : 138.3730918428281,
+    "orbitalPeriod" : 632.1207126745452
   }, {
     "name" : "Gaia_EDR3_549755818112_P5",
-    "mass" : 91.51499013335624,
-    "radius" : 0.6724325466336134,
-    "distanceFromStar" : 632.336349978894,
-    "orbitalPeriod" : 713.6347198892615
+    "mass" : 78.72814873550641,
+    "radius" : 1.6206949269317605,
+    "distanceFromStar" : 108.7452352568118,
+    "orbitalPeriod" : 629.7782843189381
   }, {
     "name" : "Gaia_EDR3_549755818112_P6",
-    "mass" : 38.34943974812332,
-    "radius" : 3.7803934307509435,
-    "distanceFromStar" : 305.16253047797227,
-    "orbitalPeriod" : 342.0382467077141
+    "mass" : 20.01355121545416,
+    "radius" : 1.9159302295742164,
+    "distanceFromStar" : 468.52208216498013,
+    "orbitalPeriod" : 486.7641501752585
   }, {
     "name" : "Gaia_EDR3_549755818112_P7",
-    "mass" : 1.6299336142650445,
-    "radius" : 0.497499310628432,
-    "distanceFromStar" : 606.7752095191196,
-    "orbitalPeriod" : 303.66349577523266
+    "mass" : 99.0275625574093,
+    "radius" : 3.115491775805883,
+    "distanceFromStar" : 63.029140888354426,
+    "orbitalPeriod" : 774.0796448129034
   }, {
     "name" : "Gaia_EDR3_549755818112_P8",
-    "mass" : 38.29156194934092,
-    "radius" : 3.461061535815623,
-    "distanceFromStar" : 921.2984556513564,
-    "orbitalPeriod" : 282.3725639312152
+    "mass" : 58.78904251131615,
+    "radius" : 4.12192889072795,
+    "distanceFromStar" : 847.2002309720004,
+    "orbitalPeriod" : 284.08255460255015
   }, {
     "name" : "Gaia_EDR3_549755818112_P9",
-    "mass" : 24.60204754489058,
-    "radius" : 8.918807358006513,
-    "distanceFromStar" : 189.6761142195612,
-    "orbitalPeriod" : 877.2009120355679
+    "mass" : 43.76839186968161,
+    "radius" : 5.263663584315344,
+    "distanceFromStar" : 964.3376741638609,
+    "orbitalPeriod" : 113.8585318971389
   }, {
     "name" : "Gaia_EDR3_549755818112_P10",
-    "mass" : 28.000452536862163,
-    "radius" : 3.6216076233280847,
-    "distanceFromStar" : 508.8426701318974,
-    "orbitalPeriod" : 579.8119000239716
+    "mass" : 87.12381701813257,
+    "radius" : 8.634439099922782,
+    "distanceFromStar" : 896.7040847235847,
+    "orbitalPeriod" : 180.08149782213113
   }, {
     "name" : "Gaia_EDR3_549755818112_P11",
-    "mass" : 67.45910127277112,
-    "radius" : 3.1482496042099317,
-    "distanceFromStar" : 371.39011102929555,
-    "orbitalPeriod" : 674.4679822788592
+    "mass" : 89.75363851274871,
+    "radius" : 7.4084555538736705,
+    "distanceFromStar" : 636.7070800967151,
+    "orbitalPeriod" : 613.3916541116566
   }, {
     "name" : "Gaia_EDR3_549755818112_P12",
-    "mass" : 24.578762208018855,
-    "radius" : 0.649379105658715,
-    "distanceFromStar" : 613.6328707990731,
-    "orbitalPeriod" : 18.31307048346231
+    "mass" : 90.77707547026132,
+    "radius" : 0.8429238958159635,
+    "distanceFromStar" : 554.9764282682135,
+    "orbitalPeriod" : 371.9211779187731
   } ]
 }, {
   "name" : "Gaia EDR3 828929527040",
@@ -487,70 +553,52 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_828929527040_P1",
-    "mass" : 43.824987438359855,
-    "radius" : 1.8001105507890913,
-    "distanceFromStar" : 363.86149655799704,
-    "orbitalPeriod" : 133.28914975298377
+    "mass" : 7.520342082305409,
+    "radius" : 4.004233759994219,
+    "distanceFromStar" : 586.4490920950611,
+    "orbitalPeriod" : 548.4215961675442
   }, {
     "name" : "Gaia_EDR3_828929527040_P2",
-    "mass" : 96.07173869335169,
-    "radius" : 8.83062230207231,
-    "distanceFromStar" : 870.9411951851877,
-    "orbitalPeriod" : 290.4549002860218
+    "mass" : 21.21100814589887,
+    "radius" : 6.574096774047053,
+    "distanceFromStar" : 603.7691258503476,
+    "orbitalPeriod" : 378.4380915156226
   }, {
     "name" : "Gaia_EDR3_828929527040_P3",
-    "mass" : 54.193660796357136,
-    "radius" : 4.407301014804242,
-    "distanceFromStar" : 721.9398492357343,
-    "orbitalPeriod" : 640.2211203445427
+    "mass" : 52.26911500932398,
+    "radius" : 3.064441568271362,
+    "distanceFromStar" : 430.2046863398785,
+    "orbitalPeriod" : 509.1094254556381
   }, {
     "name" : "Gaia_EDR3_828929527040_P4",
-    "mass" : 99.26076949124807,
-    "radius" : 2.065680812618008,
-    "distanceFromStar" : 302.05426241682676,
-    "orbitalPeriod" : 49.17507365151796
+    "mass" : 91.4007614341214,
+    "radius" : 8.873626210470118,
+    "distanceFromStar" : 293.80774642630803,
+    "orbitalPeriod" : 57.124612937630715
   }, {
     "name" : "Gaia_EDR3_828929527040_P5",
-    "mass" : 77.96253570760273,
-    "radius" : 1.734349811905409,
-    "distanceFromStar" : 235.34529069998067,
-    "orbitalPeriod" : 431.2072553491398
+    "mass" : 68.07430892904038,
+    "radius" : 6.477368005313162,
+    "distanceFromStar" : 341.62959862204156,
+    "orbitalPeriod" : 559.3379485881054
   }, {
     "name" : "Gaia_EDR3_828929527040_P6",
-    "mass" : 26.711700849151566,
-    "radius" : 0.27568184908614346,
-    "distanceFromStar" : 677.75169801526,
-    "orbitalPeriod" : 316.8975516090948
+    "mass" : 0.47325380360545566,
+    "radius" : 4.742966482649502,
+    "distanceFromStar" : 67.55272876613915,
+    "orbitalPeriod" : 832.3306252419153
   }, {
     "name" : "Gaia_EDR3_828929527040_P7",
-    "mass" : 31.772640618571057,
-    "radius" : 2.5746008072589976,
-    "distanceFromStar" : 659.8180457631919,
-    "orbitalPeriod" : 910.9467948160892
+    "mass" : 87.37881460713749,
+    "radius" : 2.5143939682335894,
+    "distanceFromStar" : 926.5249872651484,
+    "orbitalPeriod" : 594.1572001668682
   }, {
     "name" : "Gaia_EDR3_828929527040_P8",
-    "mass" : 53.566811532776114,
-    "radius" : 5.807511910835423,
-    "distanceFromStar" : 944.7434497364943,
-    "orbitalPeriod" : 479.4817708397956
-  }, {
-    "name" : "Gaia_EDR3_828929527040_P9",
-    "mass" : 62.15529923499247,
-    "radius" : 2.4239369197106075,
-    "distanceFromStar" : 821.4592801251139,
-    "orbitalPeriod" : 589.7243772162233
-  }, {
-    "name" : "Gaia_EDR3_828929527040_P10",
-    "mass" : 27.871352874460353,
-    "radius" : 0.5862725124386148,
-    "distanceFromStar" : 487.79574308594607,
-    "orbitalPeriod" : 936.4312671017625
-  }, {
-    "name" : "Gaia_EDR3_828929527040_P11",
-    "mass" : 86.17325587090352,
-    "radius" : 4.338485785277708,
-    "distanceFromStar" : 195.39870791053536,
-    "orbitalPeriod" : 232.67264045063695
+    "mass" : 22.380800940435954,
+    "radius" : 2.684380462337076,
+    "distanceFromStar" : 732.6389164615501,
+    "orbitalPeriod" : 32.87810292117932
   } ]
 }, {
   "name" : "Gaia EDR3 927713095040",
@@ -569,58 +617,34 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_927713095040_P1",
-    "mass" : 96.12451468594047,
-    "radius" : 1.2590965366067286,
-    "distanceFromStar" : 916.9347304345171,
-    "orbitalPeriod" : 663.4523683188138
+    "mass" : 30.575084568265922,
+    "radius" : 8.613499338405052,
+    "distanceFromStar" : 405.8930320403872,
+    "orbitalPeriod" : 894.5685138689877
   }, {
     "name" : "Gaia_EDR3_927713095040_P2",
-    "mass" : 63.3102262099123,
-    "radius" : 0.47023277768925453,
-    "distanceFromStar" : 234.19312513746294,
-    "orbitalPeriod" : 509.3864757715473
+    "mass" : 7.087233300145346,
+    "radius" : 9.802296651473561,
+    "distanceFromStar" : 184.7539333249404,
+    "orbitalPeriod" : 807.3019230519641
   }, {
     "name" : "Gaia_EDR3_927713095040_P3",
-    "mass" : 13.298222746103272,
-    "radius" : 1.5738889810016887,
-    "distanceFromStar" : 585.5187264382021,
-    "orbitalPeriod" : 671.195840374368
+    "mass" : 72.54559796223754,
+    "radius" : 0.1800125436756561,
+    "distanceFromStar" : 222.05096094463838,
+    "orbitalPeriod" : 437.74869394775374
   }, {
     "name" : "Gaia_EDR3_927713095040_P4",
-    "mass" : 15.951306359846818,
-    "radius" : 1.7092314032954259,
-    "distanceFromStar" : 908.9425253515356,
-    "orbitalPeriod" : 499.6289595047615
+    "mass" : 34.79768758317697,
+    "radius" : 3.482059126263767,
+    "distanceFromStar" : 910.1281736184127,
+    "orbitalPeriod" : 123.30431222443828
   }, {
     "name" : "Gaia_EDR3_927713095040_P5",
-    "mass" : 24.031324695299837,
-    "radius" : 6.139531153571837,
-    "distanceFromStar" : 253.71863147638518,
-    "orbitalPeriod" : 651.6259596995351
-  }, {
-    "name" : "Gaia_EDR3_927713095040_P6",
-    "mass" : 3.461842913655122,
-    "radius" : 5.127111184320539,
-    "distanceFromStar" : 640.7898754032925,
-    "orbitalPeriod" : 418.52638260473327
-  }, {
-    "name" : "Gaia_EDR3_927713095040_P7",
-    "mass" : 69.4464578051257,
-    "radius" : 1.3405260080092563,
-    "distanceFromStar" : 764.1737969345138,
-    "orbitalPeriod" : 107.27174157187646
-  }, {
-    "name" : "Gaia_EDR3_927713095040_P8",
-    "mass" : 45.682152342267045,
-    "radius" : 2.088719946849605,
-    "distanceFromStar" : 81.15118884054517,
-    "orbitalPeriod" : 580.3459843811997
-  }, {
-    "name" : "Gaia_EDR3_927713095040_P9",
-    "mass" : 27.285979669674653,
-    "radius" : 1.1554114484371902,
-    "distanceFromStar" : 363.5533041181051,
-    "orbitalPeriod" : 623.6743635274689
+    "mass" : 30.999246152114544,
+    "radius" : 7.117009973396503,
+    "distanceFromStar" : 325.80036417429403,
+    "orbitalPeriod" : 962.2818070476061
   } ]
 }, {
   "name" : "Gaia EDR3 966367933184",
@@ -639,112 +663,88 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_966367933184_P1",
-    "mass" : 82.97978601236093,
-    "radius" : 8.381079354715947,
-    "distanceFromStar" : 156.42679564780627,
-    "orbitalPeriod" : 943.2631535585929
+    "mass" : 23.12913990352241,
+    "radius" : 9.109060223624919,
+    "distanceFromStar" : 675.1279879385812,
+    "orbitalPeriod" : 197.96514067068338
   }, {
     "name" : "Gaia_EDR3_966367933184_P2",
-    "mass" : 5.786294605405773,
-    "radius" : 6.307186005942431,
-    "distanceFromStar" : 422.64887916040504,
-    "orbitalPeriod" : 783.9504117168502
+    "mass" : 98.21483435959472,
+    "radius" : 3.254458207271611,
+    "distanceFromStar" : 405.9637722384353,
+    "orbitalPeriod" : 776.3809667091533
   }, {
     "name" : "Gaia_EDR3_966367933184_P3",
-    "mass" : 86.11656969590553,
-    "radius" : 3.4771528399745613,
-    "distanceFromStar" : 211.87051607638108,
-    "orbitalPeriod" : 644.5269915314907
+    "mass" : 97.327006103064,
+    "radius" : 7.282198803374444,
+    "distanceFromStar" : 808.4726604254652,
+    "orbitalPeriod" : 372.0146411992422
   }, {
     "name" : "Gaia_EDR3_966367933184_P4",
-    "mass" : 25.39099598744795,
-    "radius" : 2.7652901448201996,
-    "distanceFromStar" : 844.3179243955234,
-    "orbitalPeriod" : 638.5529673875941
+    "mass" : 6.809170291409261,
+    "radius" : 8.892912666019669,
+    "distanceFromStar" : 948.6392611885129,
+    "orbitalPeriod" : 325.65167760159363
   }, {
     "name" : "Gaia_EDR3_966367933184_P5",
-    "mass" : 70.88134764424588,
-    "radius" : 8.689066823161797,
-    "distanceFromStar" : 126.08223489546123,
-    "orbitalPeriod" : 27.849335769571717
+    "mass" : 32.64520449338305,
+    "radius" : 2.192672233070998,
+    "distanceFromStar" : 526.5650372406251,
+    "orbitalPeriod" : 217.9461411923549
   }, {
     "name" : "Gaia_EDR3_966367933184_P6",
-    "mass" : 24.1705868974043,
-    "radius" : 8.816968621785833,
-    "distanceFromStar" : 730.5737112288914,
-    "orbitalPeriod" : 485.59868785502215
+    "mass" : 48.547755098098264,
+    "radius" : 0.1230351582338185,
+    "distanceFromStar" : 670.5660388491206,
+    "orbitalPeriod" : 827.2691046821836
   }, {
     "name" : "Gaia_EDR3_966367933184_P7",
-    "mass" : 76.22711609031187,
-    "radius" : 7.93400799944585,
-    "distanceFromStar" : 494.8176419675242,
-    "orbitalPeriod" : 412.44816964642496
+    "mass" : 81.35444149665214,
+    "radius" : 9.429014138547913,
+    "distanceFromStar" : 88.98332144796062,
+    "orbitalPeriod" : 392.02455787729394
   }, {
     "name" : "Gaia_EDR3_966367933184_P8",
-    "mass" : 67.60730736067339,
-    "radius" : 8.890978256514638,
-    "distanceFromStar" : 932.624413940756,
-    "orbitalPeriod" : 222.14936877756742
+    "mass" : 36.933221139804715,
+    "radius" : 1.3098140447023976,
+    "distanceFromStar" : 678.61364399192,
+    "orbitalPeriod" : 765.8417136573256
   }, {
     "name" : "Gaia_EDR3_966367933184_P9",
-    "mass" : 30.210255570869737,
-    "radius" : 7.120171587512334,
-    "distanceFromStar" : 861.3926796500948,
-    "orbitalPeriod" : 459.5582730062967
+    "mass" : 77.70830685714114,
+    "radius" : 8.953807056012629,
+    "distanceFromStar" : 783.3943065840449,
+    "orbitalPeriod" : 500.3426261838848
   }, {
     "name" : "Gaia_EDR3_966367933184_P10",
-    "mass" : 53.043858253177646,
-    "radius" : 4.169434712460376,
-    "distanceFromStar" : 415.28133963303316,
-    "orbitalPeriod" : 591.3582239321728
+    "mass" : 98.95328209048306,
+    "radius" : 6.528368038070383,
+    "distanceFromStar" : 172.95293556158754,
+    "orbitalPeriod" : 367.7222437080919
   }, {
     "name" : "Gaia_EDR3_966367933184_P11",
-    "mass" : 28.6214690778385,
-    "radius" : 9.288067372162756,
-    "distanceFromStar" : 874.7123048269248,
-    "orbitalPeriod" : 318.6571882501966
+    "mass" : 15.158170398274585,
+    "radius" : 2.8768266379333607,
+    "distanceFromStar" : 467.8592758530385,
+    "orbitalPeriod" : 344.16795938824396
   }, {
     "name" : "Gaia_EDR3_966367933184_P12",
-    "mass" : 78.89357318584024,
-    "radius" : 7.092214445777641,
-    "distanceFromStar" : 680.6430700524384,
-    "orbitalPeriod" : 300.65014656158127
+    "mass" : 60.06235260149192,
+    "radius" : 7.168934990243608,
+    "distanceFromStar" : 176.89257259552647,
+    "orbitalPeriod" : 615.1839122880606
   }, {
     "name" : "Gaia_EDR3_966367933184_P13",
-    "mass" : 30.029043152839698,
-    "radius" : 3.6440377755445343,
-    "distanceFromStar" : 721.7740656452539,
-    "orbitalPeriod" : 249.82639178761224
+    "mass" : 24.35544936007201,
+    "radius" : 3.057892779252999,
+    "distanceFromStar" : 731.3651253439583,
+    "orbitalPeriod" : 735.175199172464
   }, {
     "name" : "Gaia_EDR3_966367933184_P14",
-    "mass" : 3.895708337982684,
-    "radius" : 2.8981035501908723,
-    "distanceFromStar" : 483.8327653856526,
-    "orbitalPeriod" : 461.74036339853683
-  }, {
-    "name" : "Gaia_EDR3_966367933184_P15",
-    "mass" : 20.75012000462275,
-    "radius" : 0.4000495425702111,
-    "distanceFromStar" : 932.303154894769,
-    "orbitalPeriod" : 976.1540352318864
-  }, {
-    "name" : "Gaia_EDR3_966367933184_P16",
-    "mass" : 62.43156905293077,
-    "radius" : 1.366750110105105,
-    "distanceFromStar" : 63.44500325214098,
-    "orbitalPeriod" : 731.3977209477225
-  }, {
-    "name" : "Gaia_EDR3_966367933184_P17",
-    "mass" : 28.26554691201535,
-    "radius" : 5.833823941591881,
-    "distanceFromStar" : 903.1751437531713,
-    "orbitalPeriod" : 270.0853115182138
-  }, {
-    "name" : "Gaia_EDR3_966367933184_P18",
-    "mass" : 26.91701058747786,
-    "radius" : 4.425485056156716,
-    "distanceFromStar" : 359.35827652579354,
-    "orbitalPeriod" : 781.8588473315555
+    "mass" : 3.583355902999419,
+    "radius" : 2.5161054476675284,
+    "distanceFromStar" : 902.518618397049,
+    "orbitalPeriod" : 676.1852542762663
   } ]
 }, {
   "name" : "Gaia EDR3 1099511693312",
@@ -763,106 +763,10 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1099511693312_P1",
-    "mass" : 44.833637131271885,
-    "radius" : 7.402823649299709,
-    "distanceFromStar" : 527.6269071798621,
-    "orbitalPeriod" : 332.8701916250606
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P2",
-    "mass" : 77.85074319481177,
-    "radius" : 9.405695604639071,
-    "distanceFromStar" : 979.7994367312491,
-    "orbitalPeriod" : 821.4076191621392
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P3",
-    "mass" : 78.89945318487439,
-    "radius" : 2.6550060341883785,
-    "distanceFromStar" : 334.31178222608736,
-    "orbitalPeriod" : 105.87924862517673
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P4",
-    "mass" : 72.68463479099967,
-    "radius" : 6.157070206206154,
-    "distanceFromStar" : 402.7689071798406,
-    "orbitalPeriod" : 335.37475454319554
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P5",
-    "mass" : 18.03632411424172,
-    "radius" : 2.8641196703257843,
-    "distanceFromStar" : 276.83026947077036,
-    "orbitalPeriod" : 806.929279444612
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P6",
-    "mass" : 29.965779222210564,
-    "radius" : 9.48877219869221,
-    "distanceFromStar" : 571.9947159914957,
-    "orbitalPeriod" : 839.8733062148866
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P7",
-    "mass" : 62.653791591505424,
-    "radius" : 4.764404235677123,
-    "distanceFromStar" : 504.2340551302127,
-    "orbitalPeriod" : 191.56531081797823
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P8",
-    "mass" : 70.95242766593186,
-    "radius" : 1.535030375715667,
-    "distanceFromStar" : 530.4625612320508,
-    "orbitalPeriod" : 96.32484230222926
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P9",
-    "mass" : 54.797797083829224,
-    "radius" : 4.630562567523326,
-    "distanceFromStar" : 792.6192337047913,
-    "orbitalPeriod" : 932.2351812599911
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P10",
-    "mass" : 30.87280721830947,
-    "radius" : 0.8680859216367698,
-    "distanceFromStar" : 145.17861195407133,
-    "orbitalPeriod" : 724.5863760483218
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P11",
-    "mass" : 68.9253279528805,
-    "radius" : 9.71705443536483,
-    "distanceFromStar" : 117.19439546588562,
-    "orbitalPeriod" : 180.08095008221926
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P12",
-    "mass" : 76.33855789635379,
-    "radius" : 3.176073578440639,
-    "distanceFromStar" : 762.520286174028,
-    "orbitalPeriod" : 712.5261368995266
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P13",
-    "mass" : 13.866786145450384,
-    "radius" : 1.2312056995718301,
-    "distanceFromStar" : 985.6404089493503,
-    "orbitalPeriod" : 968.5881771713204
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P14",
-    "mass" : 77.8912045828646,
-    "radius" : 4.900497144798633,
-    "distanceFromStar" : 595.5815032480346,
-    "orbitalPeriod" : 691.2854967538174
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P15",
-    "mass" : 90.1167329562308,
-    "radius" : 2.3166920618095066,
-    "distanceFromStar" : 36.66787912869174,
-    "orbitalPeriod" : 369.24953523002625
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P16",
-    "mass" : 94.32233322756726,
-    "radius" : 4.559863672863563,
-    "distanceFromStar" : 472.41892217316786,
-    "orbitalPeriod" : 11.383134956590823
-  }, {
-    "name" : "Gaia_EDR3_1099511693312_P17",
-    "mass" : 71.59362944361521,
-    "radius" : 7.023962014937611,
-    "distanceFromStar" : 657.6786381954175,
-    "orbitalPeriod" : 559.3985493551777
+    "mass" : 4.535005743703691,
+    "radius" : 7.702367175548224,
+    "distanceFromStar" : 134.4699026003634,
+    "orbitalPeriod" : 705.4531000650153
   } ]
 }, {
   "name" : "Gaia EDR3 1275606125952",
@@ -881,64 +785,76 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1275606125952_P1",
-    "mass" : 89.86035699212374,
-    "radius" : 8.241051744272005,
-    "distanceFromStar" : 904.8177230686252,
-    "orbitalPeriod" : 60.09199902499507
+    "mass" : 97.4793865705065,
+    "radius" : 1.2862944763590811,
+    "distanceFromStar" : 932.4821448519057,
+    "orbitalPeriod" : 62.12833399678919
   }, {
     "name" : "Gaia_EDR3_1275606125952_P2",
-    "mass" : 87.4416065710448,
-    "radius" : 6.254374805877113,
-    "distanceFromStar" : 212.37033543600427,
-    "orbitalPeriod" : 146.98400066952877
+    "mass" : 32.80868626636776,
+    "radius" : 6.1931008707780855,
+    "distanceFromStar" : 909.7233420823183,
+    "orbitalPeriod" : 604.7985494907492
   }, {
     "name" : "Gaia_EDR3_1275606125952_P3",
-    "mass" : 41.99865949997644,
-    "radius" : 0.41495684830151425,
-    "distanceFromStar" : 268.3253843538381,
-    "orbitalPeriod" : 529.8801934849834
+    "mass" : 98.67724551484831,
+    "radius" : 6.080246371058319,
+    "distanceFromStar" : 586.02579363519,
+    "orbitalPeriod" : 229.63783044457753
   }, {
     "name" : "Gaia_EDR3_1275606125952_P4",
-    "mass" : 90.83116519043284,
-    "radius" : 0.23660327831554362,
-    "distanceFromStar" : 870.1448565754644,
-    "orbitalPeriod" : 90.02290784543455
+    "mass" : 29.696016479903133,
+    "radius" : 9.314316710157916,
+    "distanceFromStar" : 626.3969412391136,
+    "orbitalPeriod" : 990.7393440948417
   }, {
     "name" : "Gaia_EDR3_1275606125952_P5",
-    "mass" : 31.52678401575695,
-    "radius" : 5.796149027759733,
-    "distanceFromStar" : 852.948261165588,
-    "orbitalPeriod" : 40.7800084632709
+    "mass" : 10.858703192886864,
+    "radius" : 7.5745124963645765,
+    "distanceFromStar" : 747.881233611702,
+    "orbitalPeriod" : 845.3752041919151
   }, {
     "name" : "Gaia_EDR3_1275606125952_P6",
-    "mass" : 6.519552299589515,
-    "radius" : 9.41425295605763,
-    "distanceFromStar" : 208.62979998584274,
-    "orbitalPeriod" : 62.08675333850921
+    "mass" : 82.73269444851785,
+    "radius" : 6.108843645641225,
+    "distanceFromStar" : 183.12515778745754,
+    "orbitalPeriod" : 742.5970365017971
   }, {
     "name" : "Gaia_EDR3_1275606125952_P7",
-    "mass" : 50.601543997255696,
-    "radius" : 4.3856857457068195,
-    "distanceFromStar" : 895.0702887169826,
-    "orbitalPeriod" : 537.9235457950055
+    "mass" : 72.28636032376326,
+    "radius" : 6.087427460419461,
+    "distanceFromStar" : 21.415475737434186,
+    "orbitalPeriod" : 177.0552451742199
   }, {
     "name" : "Gaia_EDR3_1275606125952_P8",
-    "mass" : 97.50900904414871,
-    "radius" : 7.063127070340326,
-    "distanceFromStar" : 355.7383923957451,
-    "orbitalPeriod" : 980.8446950210786
+    "mass" : 4.458354157016997,
+    "radius" : 4.692838979566324,
+    "distanceFromStar" : 474.82786238060595,
+    "orbitalPeriod" : 163.14542740534577
   }, {
     "name" : "Gaia_EDR3_1275606125952_P9",
-    "mass" : 35.551901774183015,
-    "radius" : 8.99888065489763,
-    "distanceFromStar" : 474.07654566684033,
-    "orbitalPeriod" : 158.23668417066295
+    "mass" : 30.92211550867836,
+    "radius" : 7.737861378564012,
+    "distanceFromStar" : 696.2261135655752,
+    "orbitalPeriod" : 890.2546075149197
   }, {
     "name" : "Gaia_EDR3_1275606125952_P10",
-    "mass" : 74.2282870307877,
-    "radius" : 6.561802042404926,
-    "distanceFromStar" : 672.4192787714244,
-    "orbitalPeriod" : 396.89945154929563
+    "mass" : 71.97151874601722,
+    "radius" : 9.063871194840031,
+    "distanceFromStar" : 636.2027353765616,
+    "orbitalPeriod" : 156.7941838523258
+  }, {
+    "name" : "Gaia_EDR3_1275606125952_P11",
+    "mass" : 5.051194356815358,
+    "radius" : 0.7484811036887451,
+    "distanceFromStar" : 567.6534366542364,
+    "orbitalPeriod" : 48.870449523852
+  }, {
+    "name" : "Gaia_EDR3_1275606125952_P12",
+    "mass" : 49.17777286162234,
+    "radius" : 8.238959921961518,
+    "distanceFromStar" : 329.52990104795174,
+    "orbitalPeriod" : 228.85730549808414
   } ]
 }, {
   "name" : "Gaia EDR3 1340029955712",
@@ -957,40 +873,106 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1340029955712_P1",
-    "mass" : 64.72130121138727,
-    "radius" : 1.3179240666663583,
-    "distanceFromStar" : 35.707422242268635,
-    "orbitalPeriod" : 985.3131163370431
+    "mass" : 49.283347570573966,
+    "radius" : 0.4541648307431212,
+    "distanceFromStar" : 629.8004646859774,
+    "orbitalPeriod" : 489.8544422911981
   }, {
     "name" : "Gaia_EDR3_1340029955712_P2",
-    "mass" : 70.34796503723754,
-    "radius" : 6.567939835552581,
-    "distanceFromStar" : 20.521569280499087,
-    "orbitalPeriod" : 788.802632279356
+    "mass" : 14.039702880086768,
+    "radius" : 0.5792815292569242,
+    "distanceFromStar" : 313.4959917465433,
+    "orbitalPeriod" : 966.3453033196902
   }, {
     "name" : "Gaia_EDR3_1340029955712_P3",
-    "mass" : 65.02187978434083,
-    "radius" : 5.388586065297588,
-    "distanceFromStar" : 191.18781714143006,
-    "orbitalPeriod" : 159.24595922022667
+    "mass" : 56.23819831997182,
+    "radius" : 0.8652864521519921,
+    "distanceFromStar" : 743.2501492717886,
+    "orbitalPeriod" : 452.1442637158909
   }, {
     "name" : "Gaia_EDR3_1340029955712_P4",
-    "mass" : 19.602156434436992,
-    "radius" : 8.81558818453991,
-    "distanceFromStar" : 897.3706856522168,
-    "orbitalPeriod" : 195.02289644751193
+    "mass" : 16.134193309030497,
+    "radius" : 1.6421916864776798,
+    "distanceFromStar" : 746.7420776439234,
+    "orbitalPeriod" : 786.4162198323063
   }, {
     "name" : "Gaia_EDR3_1340029955712_P5",
-    "mass" : 44.06946478632226,
-    "radius" : 2.431988211480254,
-    "distanceFromStar" : 198.13598243875242,
-    "orbitalPeriod" : 757.890602258182
+    "mass" : 59.27097415275463,
+    "radius" : 7.376495196949863,
+    "distanceFromStar" : 0.07390098414250534,
+    "orbitalPeriod" : 689.8374645463525
   }, {
     "name" : "Gaia_EDR3_1340029955712_P6",
-    "mass" : 82.80935644414238,
-    "radius" : 1.2480697204639646,
-    "distanceFromStar" : 49.60962161567728,
-    "orbitalPeriod" : 771.2297767138134
+    "mass" : 30.79762481323546,
+    "radius" : 4.255557587818759,
+    "distanceFromStar" : 951.0082548238852,
+    "orbitalPeriod" : 379.6427665171982
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P7",
+    "mass" : 34.31013767131134,
+    "radius" : 3.220287273315454,
+    "distanceFromStar" : 717.5559358339285,
+    "orbitalPeriod" : 493.4353327493899
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P8",
+    "mass" : 95.9121995625334,
+    "radius" : 4.039707640601009,
+    "distanceFromStar" : 647.491372032953,
+    "orbitalPeriod" : 385.5103032711169
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P9",
+    "mass" : 3.1959620062314897,
+    "radius" : 5.56198624949139,
+    "distanceFromStar" : 905.0374909994305,
+    "orbitalPeriod" : 829.1698862877819
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P10",
+    "mass" : 40.972033924321416,
+    "radius" : 9.630022953170792,
+    "distanceFromStar" : 662.8750538857253,
+    "orbitalPeriod" : 909.4843629481607
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P11",
+    "mass" : 80.83179658387138,
+    "radius" : 1.3157149341594032,
+    "distanceFromStar" : 220.79650202747004,
+    "orbitalPeriod" : 423.17992491296087
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P12",
+    "mass" : 20.004108338427386,
+    "radius" : 6.105521615378182,
+    "distanceFromStar" : 646.7378057188622,
+    "orbitalPeriod" : 415.81083568016805
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P13",
+    "mass" : 6.472318960379919,
+    "radius" : 5.460980417306941,
+    "distanceFromStar" : 341.58581234926,
+    "orbitalPeriod" : 581.0997131970362
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P14",
+    "mass" : 31.946461546730198,
+    "radius" : 5.781332324606946,
+    "distanceFromStar" : 266.07316356832155,
+    "orbitalPeriod" : 123.30703857014869
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P15",
+    "mass" : 22.039358309777402,
+    "radius" : 2.2114298291727086,
+    "distanceFromStar" : 436.2364685474998,
+    "orbitalPeriod" : 340.7164277485529
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P16",
+    "mass" : 3.8743080836498467,
+    "radius" : 7.966624991854104,
+    "distanceFromStar" : 693.3276175545807,
+    "orbitalPeriod" : 626.799827917532
+  }, {
+    "name" : "Gaia_EDR3_1340029955712_P17",
+    "mass" : 85.35594060120188,
+    "radius" : 1.8873417136805248,
+    "distanceFromStar" : 684.732181699386,
+    "orbitalPeriod" : 805.352818206057
   } ]
 }, {
   "name" : "Gaia EDR3 1340029956224",
@@ -1009,82 +991,46 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1340029956224_P1",
-    "mass" : 78.57355395406438,
-    "radius" : 5.657040917588532,
-    "distanceFromStar" : 243.61833754827634,
-    "orbitalPeriod" : 605.8392708397258
+    "mass" : 17.89554376703991,
+    "radius" : 4.543630390636672,
+    "distanceFromStar" : 716.866736045372,
+    "orbitalPeriod" : 311.89177560761004
   }, {
     "name" : "Gaia_EDR3_1340029956224_P2",
-    "mass" : 10.442736957149135,
-    "radius" : 6.488180782151383,
-    "distanceFromStar" : 270.93690916884606,
-    "orbitalPeriod" : 4.558531484693096
+    "mass" : 88.43416310896079,
+    "radius" : 0.3416114315362273,
+    "distanceFromStar" : 755.6311777009544,
+    "orbitalPeriod" : 440.90160492991583
   }, {
     "name" : "Gaia_EDR3_1340029956224_P3",
-    "mass" : 71.85108992158004,
-    "radius" : 0.3057900854273865,
-    "distanceFromStar" : 802.437104238697,
-    "orbitalPeriod" : 120.80346517979478
+    "mass" : 86.90785652293293,
+    "radius" : 9.527496603837,
+    "distanceFromStar" : 620.5367741760258,
+    "orbitalPeriod" : 179.92592083633573
   }, {
     "name" : "Gaia_EDR3_1340029956224_P4",
-    "mass" : 47.62364628500516,
-    "radius" : 0.37111702850671224,
-    "distanceFromStar" : 269.67994118053815,
-    "orbitalPeriod" : 955.0358291663852
+    "mass" : 83.03425994131487,
+    "radius" : 6.329516848480317,
+    "distanceFromStar" : 887.274826514577,
+    "orbitalPeriod" : 189.32537646611704
   }, {
     "name" : "Gaia_EDR3_1340029956224_P5",
-    "mass" : 31.03684454945832,
-    "radius" : 1.9898149562233924,
-    "distanceFromStar" : 271.97859885958206,
-    "orbitalPeriod" : 635.5501435159222
+    "mass" : 36.87160407803604,
+    "radius" : 2.3679579329238387,
+    "distanceFromStar" : 135.60683127138117,
+    "orbitalPeriod" : 232.38568502026
   }, {
     "name" : "Gaia_EDR3_1340029956224_P6",
-    "mass" : 0.5999114017467888,
-    "radius" : 1.6287295013842173,
-    "distanceFromStar" : 387.95595900316806,
-    "orbitalPeriod" : 906.8743809015679
+    "mass" : 24.532869955638503,
+    "radius" : 6.347977266566938,
+    "distanceFromStar" : 272.60358460055534,
+    "orbitalPeriod" : 295.0667611050425
   }, {
     "name" : "Gaia_EDR3_1340029956224_P7",
-    "mass" : 97.53521964047629,
-    "radius" : 2.3023042393329076,
-    "distanceFromStar" : 840.0541898847583,
-    "orbitalPeriod" : 735.2595513485389
-  }, {
-    "name" : "Gaia_EDR3_1340029956224_P8",
-    "mass" : 7.54948596805598,
-    "radius" : 2.4750021071114245,
-    "distanceFromStar" : 177.30999796505876,
-    "orbitalPeriod" : 592.3245368195999
-  }, {
-    "name" : "Gaia_EDR3_1340029956224_P9",
-    "mass" : 70.89793388725997,
-    "radius" : 5.032781649987568,
-    "distanceFromStar" : 361.4359669088638,
-    "orbitalPeriod" : 549.2104123806586
-  }, {
-    "name" : "Gaia_EDR3_1340029956224_P10",
-    "mass" : 93.27860544525146,
-    "radius" : 7.495810293759889,
-    "distanceFromStar" : 642.2246918109054,
-    "orbitalPeriod" : 916.138330685702
-  }, {
-    "name" : "Gaia_EDR3_1340029956224_P11",
-    "mass" : 6.754258764291032,
-    "radius" : 4.576233108388975,
-    "distanceFromStar" : 390.5191840441223,
-    "orbitalPeriod" : 796.0537600799338
-  }, {
-    "name" : "Gaia_EDR3_1340029956224_P12",
-    "mass" : 34.68435620803798,
-    "radius" : 9.428960275334065,
-    "distanceFromStar" : 620.4694940289974,
-    "orbitalPeriod" : 586.0788842564225
-  }, {
-    "name" : "Gaia_EDR3_1340029956224_P13",
-    "mass" : 47.55986295131061,
-    "radius" : 0.5000733062187424,
-    "distanceFromStar" : 277.5221522500646,
-    "orbitalPeriod" : 156.78445702760735
+    "mass" : 70.0706655065414,
+    "radius" : 8.257206556301242,
+    "distanceFromStar" : 381.2301240196346,
+    "orbitalPeriod" : 752.314913173635
   } ]
 }, {
   "name" : "Gaia EDR3 1374389600384",
@@ -1103,70 +1049,106 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1374389600384_P1",
-    "mass" : 67.46595971432606,
-    "radius" : 4.945654606840529,
-    "distanceFromStar" : 166.8306606562645,
-    "orbitalPeriod" : 896.79882587247
+    "mass" : 31.368047852147683,
+    "radius" : 8.933792057294092,
+    "distanceFromStar" : 189.85547864694897,
+    "orbitalPeriod" : 19.90754588085131
   }, {
     "name" : "Gaia_EDR3_1374389600384_P2",
-    "mass" : 51.83009277313834,
-    "radius" : 9.2588019037775,
-    "distanceFromStar" : 729.3167291795087,
-    "orbitalPeriod" : 815.1949952278576
+    "mass" : 66.13765594094252,
+    "radius" : 1.3743278434688844,
+    "distanceFromStar" : 342.92219824127955,
+    "orbitalPeriod" : 505.6849632192124
   }, {
     "name" : "Gaia_EDR3_1374389600384_P3",
-    "mass" : 12.04037054705529,
-    "radius" : 9.570221989492826,
-    "distanceFromStar" : 436.2168287080491,
-    "orbitalPeriod" : 153.21854397832269
+    "mass" : 68.13926453306848,
+    "radius" : 3.42657271278199,
+    "distanceFromStar" : 497.1685370303076,
+    "orbitalPeriod" : 331.5407982723082
   }, {
     "name" : "Gaia_EDR3_1374389600384_P4",
-    "mass" : 39.398668421486896,
-    "radius" : 0.5848944377262577,
-    "distanceFromStar" : 568.569971383731,
-    "orbitalPeriod" : 517.7425740083132
+    "mass" : 50.192656872492435,
+    "radius" : 9.962150768884722,
+    "distanceFromStar" : 612.0454791539928,
+    "orbitalPeriod" : 167.99328638595412
   }, {
     "name" : "Gaia_EDR3_1374389600384_P5",
-    "mass" : 60.19108704462969,
-    "radius" : 8.020029038031728,
-    "distanceFromStar" : 172.63000387487193,
-    "orbitalPeriod" : 428.34113349814737
+    "mass" : 4.897123722123597,
+    "radius" : 0.433015983785362,
+    "distanceFromStar" : 373.2193654033774,
+    "orbitalPeriod" : 227.1792125810147
   }, {
     "name" : "Gaia_EDR3_1374389600384_P6",
-    "mass" : 95.46441660693394,
-    "radius" : 0.9045726217396377,
-    "distanceFromStar" : 565.9710097191077,
-    "orbitalPeriod" : 275.82089050169054
+    "mass" : 32.38840672792382,
+    "radius" : 7.968931018302556,
+    "distanceFromStar" : 358.14219756531804,
+    "orbitalPeriod" : 695.1736758630666
   }, {
     "name" : "Gaia_EDR3_1374389600384_P7",
-    "mass" : 78.46029513497008,
-    "radius" : 9.66073885918933,
-    "distanceFromStar" : 752.5827246037738,
-    "orbitalPeriod" : 738.8530454091975
+    "mass" : 22.344530032233088,
+    "radius" : 5.8081757848940905,
+    "distanceFromStar" : 507.67600704413894,
+    "orbitalPeriod" : 798.527392843767
   }, {
     "name" : "Gaia_EDR3_1374389600384_P8",
-    "mass" : 55.784374105281046,
-    "radius" : 9.560150277113971,
-    "distanceFromStar" : 172.27920365899408,
-    "orbitalPeriod" : 145.79668107944897
+    "mass" : 54.892033633838956,
+    "radius" : 0.6833767672053814,
+    "distanceFromStar" : 136.71200535912755,
+    "orbitalPeriod" : 291.91683357460954
   }, {
     "name" : "Gaia_EDR3_1374389600384_P9",
-    "mass" : 82.07914644699422,
-    "radius" : 2.9069490809286536,
-    "distanceFromStar" : 187.28362425518043,
-    "orbitalPeriod" : 410.40617683988125
+    "mass" : 28.130497609082028,
+    "radius" : 9.981604638552184,
+    "distanceFromStar" : 788.014375153482,
+    "orbitalPeriod" : 139.15469920420077
   }, {
     "name" : "Gaia_EDR3_1374389600384_P10",
-    "mass" : 54.785520052191494,
-    "radius" : 4.8724990866966,
-    "distanceFromStar" : 717.6404320634426,
-    "orbitalPeriod" : 592.9667199445433
+    "mass" : 16.184650097560883,
+    "radius" : 4.507663644214888,
+    "distanceFromStar" : 336.05732001040946,
+    "orbitalPeriod" : 426.4097026991495
   }, {
     "name" : "Gaia_EDR3_1374389600384_P11",
-    "mass" : 25.519628452051858,
-    "radius" : 7.291063532599921,
-    "distanceFromStar" : 477.1459181785508,
-    "orbitalPeriod" : 842.503812284576
+    "mass" : 11.009783917778492,
+    "radius" : 1.5017523398231725,
+    "distanceFromStar" : 881.4132190217634,
+    "orbitalPeriod" : 94.33586666024763
+  }, {
+    "name" : "Gaia_EDR3_1374389600384_P12",
+    "mass" : 3.6175878362051606,
+    "radius" : 3.1974497572227234,
+    "distanceFromStar" : 141.28901046137076,
+    "orbitalPeriod" : 904.9136194988047
+  }, {
+    "name" : "Gaia_EDR3_1374389600384_P13",
+    "mass" : 15.955904863641003,
+    "radius" : 4.653238435276111,
+    "distanceFromStar" : 238.09664713143974,
+    "orbitalPeriod" : 169.15596046529203
+  }, {
+    "name" : "Gaia_EDR3_1374389600384_P14",
+    "mass" : 3.3673495745158433,
+    "radius" : 0.8505478945431877,
+    "distanceFromStar" : 15.482637255109232,
+    "orbitalPeriod" : 153.43502101108984
+  }, {
+    "name" : "Gaia_EDR3_1374389600384_P15",
+    "mass" : 9.368137416937206,
+    "radius" : 7.123564166772892,
+    "distanceFromStar" : 270.03090684995055,
+    "orbitalPeriod" : 755.0356716735853
+  }, {
+    "name" : "Gaia_EDR3_1374389600384_P16",
+    "mass" : 69.42982232773312,
+    "radius" : 8.870817217733233,
+    "distanceFromStar" : 576.8920304000652,
+    "orbitalPeriod" : 991.6444233841186
+  }, {
+    "name" : "Gaia_EDR3_1374389600384_P17",
+    "mass" : 28.513141615898483,
+    "radius" : 6.195825246853688,
+    "distanceFromStar" : 708.8811555168515,
+    "orbitalPeriod" : 84.83330277247202
   } ]
 }, {
   "name" : "Gaia EDR3 1511828647680",
@@ -1185,82 +1167,70 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1511828647680_P1",
-    "mass" : 19.23116309877303,
-    "radius" : 3.3277650246646773,
-    "distanceFromStar" : 461.06411199597505,
-    "orbitalPeriod" : 759.1383148045902
+    "mass" : 66.3383784305982,
+    "radius" : 0.01125978884797263,
+    "distanceFromStar" : 434.20040263997527,
+    "orbitalPeriod" : 343.4183419486434
   }, {
     "name" : "Gaia_EDR3_1511828647680_P2",
-    "mass" : 97.02697724111988,
-    "radius" : 4.131340990630646,
-    "distanceFromStar" : 97.66626712791104,
-    "orbitalPeriod" : 230.09735502471406
+    "mass" : 44.43988508798008,
+    "radius" : 3.971348704253085,
+    "distanceFromStar" : 576.6796033541747,
+    "orbitalPeriod" : 609.3900076811225
   }, {
     "name" : "Gaia_EDR3_1511828647680_P3",
-    "mass" : 53.075076551521896,
-    "radius" : 7.25215826495814,
-    "distanceFromStar" : 627.3725006926527,
-    "orbitalPeriod" : 9.813039058362282
+    "mass" : 80.80929957708247,
+    "radius" : 3.271949121738389,
+    "distanceFromStar" : 304.634464010165,
+    "orbitalPeriod" : 118.22116654616931
   }, {
     "name" : "Gaia_EDR3_1511828647680_P4",
-    "mass" : 70.25177386026785,
-    "radius" : 2.038554377720473,
-    "distanceFromStar" : 100.03264116307031,
-    "orbitalPeriod" : 302.27771824507954
+    "mass" : 84.07293574540805,
+    "radius" : 0.16298027382719904,
+    "distanceFromStar" : 476.70182812143423,
+    "orbitalPeriod" : 887.85375622383
   }, {
     "name" : "Gaia_EDR3_1511828647680_P5",
-    "mass" : 3.3644332419562217,
-    "radius" : 3.144721318599238,
-    "distanceFromStar" : 253.60436949576172,
-    "orbitalPeriod" : 281.0507093342769
+    "mass" : 89.68079154077972,
+    "radius" : 2.963331166361817,
+    "distanceFromStar" : 696.9532857587931,
+    "orbitalPeriod" : 869.2811758890783
   }, {
     "name" : "Gaia_EDR3_1511828647680_P6",
-    "mass" : 98.9569577723678,
-    "radius" : 5.573021604382208,
-    "distanceFromStar" : 478.5547805895772,
-    "orbitalPeriod" : 906.7912964265015
+    "mass" : 62.20344297154622,
+    "radius" : 5.060702408651684,
+    "distanceFromStar" : 960.793199531497,
+    "orbitalPeriod" : 952.5741786049675
   }, {
     "name" : "Gaia_EDR3_1511828647680_P7",
-    "mass" : 86.61656007464713,
-    "radius" : 4.800768972773213,
-    "distanceFromStar" : 792.6998129092295,
-    "orbitalPeriod" : 561.9695687610008
+    "mass" : 19.963334280556357,
+    "radius" : 6.0250328528075645,
+    "distanceFromStar" : 570.1144844077063,
+    "orbitalPeriod" : 544.2653047755357
   }, {
     "name" : "Gaia_EDR3_1511828647680_P8",
-    "mass" : 48.15689841697199,
-    "radius" : 0.9615095118254124,
-    "distanceFromStar" : 339.9399083291761,
-    "orbitalPeriod" : 868.996493059499
+    "mass" : 26.754488113972506,
+    "radius" : 1.784051072091729,
+    "distanceFromStar" : 105.58403561403229,
+    "orbitalPeriod" : 395.8101258596648
   }, {
     "name" : "Gaia_EDR3_1511828647680_P9",
-    "mass" : 68.02536833615207,
-    "radius" : 9.26372303134855,
-    "distanceFromStar" : 161.7018737410997,
-    "orbitalPeriod" : 269.92863095178
+    "mass" : 95.5023017185055,
+    "radius" : 6.834894280381951,
+    "distanceFromStar" : 10.532066904279326,
+    "orbitalPeriod" : 356.00717935973023
   }, {
     "name" : "Gaia_EDR3_1511828647680_P10",
-    "mass" : 43.37998611192989,
-    "radius" : 2.3552576299242336,
-    "distanceFromStar" : 506.49786468307747,
-    "orbitalPeriod" : 689.0672949564016
+    "mass" : 26.93777642901648,
+    "radius" : 7.803622046257645,
+    "distanceFromStar" : 388.7706284099267,
+    "orbitalPeriod" : 244.67292097955607
   }, {
     "name" : "Gaia_EDR3_1511828647680_P11",
-    "mass" : 85.5039589208491,
-    "radius" : 4.179704364040786,
-    "distanceFromStar" : 740.8649641664314,
-    "orbitalPeriod" : 874.1856772906699
-  }, {
-    "name" : "Gaia_EDR3_1511828647680_P12",
-    "mass" : 75.57366841338714,
-    "radius" : 9.02130101834372,
-    "distanceFromStar" : 4.0495001255724805,
-    "orbitalPeriod" : 817.781508309895
-  }, {
-    "name" : "Gaia_EDR3_1511828647680_P13",
-    "mass" : 47.26849962140205,
-    "radius" : 3.897854755469845,
-    "distanceFromStar" : 109.15226604886242,
-    "orbitalPeriod" : 996.6673738478204
+    "mass" : 62.70820022892678,
+    "radius" : 4.314843225650571,
+    "distanceFromStar" : 947.7680966256905,
+    "orbitalPeriod" : 100.53170337065664
   } ]
 }, {
   "name" : "Gaia EDR3 1619203481984",
@@ -1279,70 +1249,82 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1619203481984_P1",
-    "mass" : 72.36555190454621,
-    "radius" : 8.350523485217948,
-    "distanceFromStar" : 36.37406560164946,
-    "orbitalPeriod" : 627.289654265542
+    "mass" : 0.9656700907714089,
+    "radius" : 6.289586625577605,
+    "distanceFromStar" : 643.1952180712999,
+    "orbitalPeriod" : 618.9846271907363
   }, {
     "name" : "Gaia_EDR3_1619203481984_P2",
-    "mass" : 18.55447206002444,
-    "radius" : 6.762786355520336,
-    "distanceFromStar" : 806.2572958131965,
-    "orbitalPeriod" : 955.4720979817764
+    "mass" : 45.20778680859284,
+    "radius" : 3.5856646308888784,
+    "distanceFromStar" : 907.269652083878,
+    "orbitalPeriod" : 375.02130677586
   }, {
     "name" : "Gaia_EDR3_1619203481984_P3",
-    "mass" : 56.73718735816576,
-    "radius" : 3.2209978728851008,
-    "distanceFromStar" : 881.8614240810559,
-    "orbitalPeriod" : 914.524046670509
+    "mass" : 23.681300026319406,
+    "radius" : 5.251765665709163,
+    "distanceFromStar" : 656.042892200944,
+    "orbitalPeriod" : 165.16448290217411
   }, {
     "name" : "Gaia_EDR3_1619203481984_P4",
-    "mass" : 92.86849632011686,
-    "radius" : 6.2145509376252654,
-    "distanceFromStar" : 773.0083216156577,
-    "orbitalPeriod" : 992.4330150895004
+    "mass" : 75.05526787117702,
+    "radius" : 2.443853344141518,
+    "distanceFromStar" : 362.86842887674175,
+    "orbitalPeriod" : 126.99972380186841
   }, {
     "name" : "Gaia_EDR3_1619203481984_P5",
-    "mass" : 55.68062407284432,
-    "radius" : 5.56949969247905,
-    "distanceFromStar" : 309.2434974918972,
-    "orbitalPeriod" : 199.6433014802711
+    "mass" : 43.78286856205066,
+    "radius" : 2.062158918059315,
+    "distanceFromStar" : 260.2762283759644,
+    "orbitalPeriod" : 374.9326356743483
   }, {
     "name" : "Gaia_EDR3_1619203481984_P6",
-    "mass" : 27.954023310789488,
-    "radius" : 7.9899143580609255,
-    "distanceFromStar" : 98.68553479406461,
-    "orbitalPeriod" : 90.36645654404518
+    "mass" : 97.43928838691535,
+    "radius" : 9.175842494666849,
+    "distanceFromStar" : 200.0053217367469,
+    "orbitalPeriod" : 174.53648862842618
   }, {
     "name" : "Gaia_EDR3_1619203481984_P7",
-    "mass" : 94.5416364127887,
-    "radius" : 7.402409338589296,
-    "distanceFromStar" : 31.98916411871755,
-    "orbitalPeriod" : 11.538794822091415
+    "mass" : 59.125492706683644,
+    "radius" : 4.4995447674349185,
+    "distanceFromStar" : 841.5667116444206,
+    "orbitalPeriod" : 650.1802960963599
   }, {
     "name" : "Gaia_EDR3_1619203481984_P8",
-    "mass" : 58.27275873403711,
-    "radius" : 5.209126601992167,
-    "distanceFromStar" : 390.04605853443377,
-    "orbitalPeriod" : 313.0986961258789
+    "mass" : 59.09127330490781,
+    "radius" : 3.8142240637238944,
+    "distanceFromStar" : 992.6092878936695,
+    "orbitalPeriod" : 47.69626981398745
   }, {
     "name" : "Gaia_EDR3_1619203481984_P9",
-    "mass" : 47.61648646259323,
-    "radius" : 4.470477727942335,
-    "distanceFromStar" : 232.2118449847852,
-    "orbitalPeriod" : 160.48353448021314
+    "mass" : 4.359973942553708,
+    "radius" : 4.828186794693943,
+    "distanceFromStar" : 761.2755601031829,
+    "orbitalPeriod" : 949.8222315422681
   }, {
     "name" : "Gaia_EDR3_1619203481984_P10",
-    "mass" : 15.863653891038732,
-    "radius" : 3.767461159962412,
-    "distanceFromStar" : 391.261774675294,
-    "orbitalPeriod" : 278.7224489328388
+    "mass" : 62.891093525710794,
+    "radius" : 8.39024111782846,
+    "distanceFromStar" : 548.8979392212692,
+    "orbitalPeriod" : 999.3812241149126
   }, {
     "name" : "Gaia_EDR3_1619203481984_P11",
-    "mass" : 10.590082550035751,
-    "radius" : 1.0343856302105436,
-    "distanceFromStar" : 581.9411729216692,
-    "orbitalPeriod" : 427.2275945061109
+    "mass" : 59.69599690622594,
+    "radius" : 5.195412033866757,
+    "distanceFromStar" : 810.8005337626746,
+    "orbitalPeriod" : 623.6370642216785
+  }, {
+    "name" : "Gaia_EDR3_1619203481984_P12",
+    "mass" : 86.32571590101688,
+    "radius" : 6.164678358269436,
+    "distanceFromStar" : 943.6354809077019,
+    "orbitalPeriod" : 972.9908877750258
+  }, {
+    "name" : "Gaia_EDR3_1619203481984_P13",
+    "mass" : 32.27889517179784,
+    "radius" : 4.533703892643059,
+    "distanceFromStar" : 619.5967065746686,
+    "orbitalPeriod" : 788.1609584450763
   } ]
 }, {
   "name" : "Gaia EDR3 1653563247744",
@@ -1361,88 +1343,70 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1653563247744_P1",
-    "mass" : 50.06351365293196,
-    "radius" : 8.418916426679084,
-    "distanceFromStar" : 655.3635189620345,
-    "orbitalPeriod" : 223.45451308778308
+    "mass" : 3.5154978685206673,
+    "radius" : 3.8101822388639803,
+    "distanceFromStar" : 192.2135779844828,
+    "orbitalPeriod" : 355.7052967761346
   }, {
     "name" : "Gaia_EDR3_1653563247744_P2",
-    "mass" : 20.918487529887386,
-    "radius" : 7.668971643859371,
-    "distanceFromStar" : 421.1000839796104,
-    "orbitalPeriod" : 327.95541024676277
+    "mass" : 35.68875806100268,
+    "radius" : 3.332781890559957,
+    "distanceFromStar" : 467.290667998167,
+    "orbitalPeriod" : 240.1215296819339
   }, {
     "name" : "Gaia_EDR3_1653563247744_P3",
-    "mass" : 94.5935677321815,
-    "radius" : 7.768092052150663,
-    "distanceFromStar" : 468.53198724450806,
-    "orbitalPeriod" : 740.3518598207477
+    "mass" : 1.8614756471367455,
+    "radius" : 3.295937588026565,
+    "distanceFromStar" : 720.6051208026678,
+    "orbitalPeriod" : 171.2496429043957
   }, {
     "name" : "Gaia_EDR3_1653563247744_P4",
-    "mass" : 9.178348929581182,
-    "radius" : 9.541730116005432,
-    "distanceFromStar" : 954.7734662155918,
-    "orbitalPeriod" : 909.9944563167454
+    "mass" : 70.35886068360871,
+    "radius" : 1.2820630255019139,
+    "distanceFromStar" : 970.2522609714913,
+    "orbitalPeriod" : 853.1875851255926
   }, {
     "name" : "Gaia_EDR3_1653563247744_P5",
-    "mass" : 7.745198774273354,
-    "radius" : 8.344922717465895,
-    "distanceFromStar" : 692.7139598556925,
-    "orbitalPeriod" : 683.0548635740029
+    "mass" : 46.890133470896664,
+    "radius" : 6.20619987324622,
+    "distanceFromStar" : 588.6117984487349,
+    "orbitalPeriod" : 101.49529496367282
   }, {
     "name" : "Gaia_EDR3_1653563247744_P6",
-    "mass" : 22.69452945999284,
-    "radius" : 8.952328994458336,
-    "distanceFromStar" : 533.3468978024782,
-    "orbitalPeriod" : 896.220448286346
+    "mass" : 47.03855814235265,
+    "radius" : 3.789712149116787,
+    "distanceFromStar" : 229.59196232615486,
+    "orbitalPeriod" : 635.8954139259308
   }, {
     "name" : "Gaia_EDR3_1653563247744_P7",
-    "mass" : 14.146788613687168,
-    "radius" : 3.9008047821397063,
-    "distanceFromStar" : 849.8603607859944,
-    "orbitalPeriod" : 165.63389703169685
+    "mass" : 69.77394606253448,
+    "radius" : 4.512705381581497,
+    "distanceFromStar" : 335.6930118795468,
+    "orbitalPeriod" : 92.41928165109081
   }, {
     "name" : "Gaia_EDR3_1653563247744_P8",
-    "mass" : 41.070774805708446,
-    "radius" : 6.056309721283193,
-    "distanceFromStar" : 805.404664537543,
-    "orbitalPeriod" : 175.30715390374007
+    "mass" : 53.118543953336584,
+    "radius" : 5.451724566981284,
+    "distanceFromStar" : 71.84505156232879,
+    "orbitalPeriod" : 388.32958796662876
   }, {
     "name" : "Gaia_EDR3_1653563247744_P9",
-    "mass" : 42.37295264372373,
-    "radius" : 5.796071108652546,
-    "distanceFromStar" : 587.4290944683474,
-    "orbitalPeriod" : 871.7787589774323
+    "mass" : 44.75749684199616,
+    "radius" : 4.840924730015819,
+    "distanceFromStar" : 65.20054410804377,
+    "orbitalPeriod" : 956.9397065166471
   }, {
     "name" : "Gaia_EDR3_1653563247744_P10",
-    "mass" : 31.83272019876555,
-    "radius" : 8.128577869969162,
-    "distanceFromStar" : 73.70583975285506,
-    "orbitalPeriod" : 105.57249315838713
+    "mass" : 0.17014197209382909,
+    "radius" : 0.9390542451314099,
+    "distanceFromStar" : 643.5394122335555,
+    "orbitalPeriod" : 784.4895383885118
   }, {
     "name" : "Gaia_EDR3_1653563247744_P11",
-    "mass" : 65.55361440380365,
-    "radius" : 5.318116896947068,
-    "distanceFromStar" : 458.6363998453858,
-    "orbitalPeriod" : 425.0539471288081
-  }, {
-    "name" : "Gaia_EDR3_1653563247744_P12",
-    "mass" : 23.51070490306576,
-    "radius" : 6.137202836772554,
-    "distanceFromStar" : 213.16166677999138,
-    "orbitalPeriod" : 924.5712890920325
-  }, {
-    "name" : "Gaia_EDR3_1653563247744_P13",
-    "mass" : 57.809488500162196,
-    "radius" : 3.739392447429645,
-    "distanceFromStar" : 377.5741603573438,
-    "orbitalPeriod" : 276.3051259794601
-  }, {
-    "name" : "Gaia_EDR3_1653563247744_P14",
-    "mass" : 99.43183930483495,
-    "radius" : 0.3266201567569893,
-    "distanceFromStar" : 593.7566792886228,
-    "orbitalPeriod" : 334.0417536593191
+    "mass" : 28.768620756373174,
+    "radius" : 4.841226086342641,
+    "distanceFromStar" : 359.67037466721354,
+    "orbitalPeriod" : 627.5259839743195
   } ]
 }, {
   "name" : "Gaia EDR3 1683627775360",
@@ -1461,100 +1425,52 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1683627775360_P1",
-    "mass" : 82.79326095788579,
-    "radius" : 4.71849043887394,
-    "distanceFromStar" : 987.1225747440144,
-    "orbitalPeriod" : 407.36913968580654
+    "mass" : 2.435935764011743,
+    "radius" : 4.651896334206099,
+    "distanceFromStar" : 266.77593237966414,
+    "orbitalPeriod" : 420.51289494618493
   }, {
     "name" : "Gaia_EDR3_1683627775360_P2",
-    "mass" : 42.242923303940486,
-    "radius" : 8.560700985000091,
-    "distanceFromStar" : 264.11250142445,
-    "orbitalPeriod" : 535.066056016298
+    "mass" : 18.50690830811448,
+    "radius" : 6.541832973733454,
+    "distanceFromStar" : 162.2880490141959,
+    "orbitalPeriod" : 102.5151935925115
   }, {
     "name" : "Gaia_EDR3_1683627775360_P3",
-    "mass" : 46.34241643275004,
-    "radius" : 3.0540000607752784,
-    "distanceFromStar" : 38.26801517426459,
-    "orbitalPeriod" : 721.3779105447275
+    "mass" : 81.09336040368208,
+    "radius" : 8.35938177951567,
+    "distanceFromStar" : 414.6593208739268,
+    "orbitalPeriod" : 183.3583291684281
   }, {
     "name" : "Gaia_EDR3_1683627775360_P4",
-    "mass" : 89.84896302793042,
-    "radius" : 6.370532900425103,
-    "distanceFromStar" : 70.6758445243455,
-    "orbitalPeriod" : 349.45006050472915
+    "mass" : 32.59637097363209,
+    "radius" : 9.15450537662897,
+    "distanceFromStar" : 508.45085656490573,
+    "orbitalPeriod" : 546.9595789275398
   }, {
     "name" : "Gaia_EDR3_1683627775360_P5",
-    "mass" : 92.39330620031879,
-    "radius" : 6.941501279092441,
-    "distanceFromStar" : 541.9711482343687,
-    "orbitalPeriod" : 889.3088608304816
+    "mass" : 83.12780567122653,
+    "radius" : 5.6149983785679005,
+    "distanceFromStar" : 916.4369949900973,
+    "orbitalPeriod" : 780.621579557428
   }, {
     "name" : "Gaia_EDR3_1683627775360_P6",
-    "mass" : 24.860972812194536,
-    "radius" : 5.937201696274368,
-    "distanceFromStar" : 669.8340499260232,
-    "orbitalPeriod" : 713.588306345182
+    "mass" : 4.969220187329193,
+    "radius" : 7.2428106124091185,
+    "distanceFromStar" : 277.1202815646647,
+    "orbitalPeriod" : 440.16652607464334
   }, {
     "name" : "Gaia_EDR3_1683627775360_P7",
-    "mass" : 69.2674258753002,
-    "radius" : 5.8714922410459796,
-    "distanceFromStar" : 487.00197902841205,
-    "orbitalPeriod" : 687.8240353996595
+    "mass" : 59.56643604885994,
+    "radius" : 2.2806543305194413,
+    "distanceFromStar" : 522.9845888158836,
+    "orbitalPeriod" : 31.715506243205738
   }, {
     "name" : "Gaia_EDR3_1683627775360_P8",
-    "mass" : 0.8997129602359544,
-    "radius" : 3.2240613914666874,
-    "distanceFromStar" : 363.32433476038864,
-    "orbitalPeriod" : 633.7344305353531
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P9",
-    "mass" : 21.438570214461926,
-    "radius" : 7.358634391110364,
-    "distanceFromStar" : 395.4253260233562,
-    "orbitalPeriod" : 968.0090077910038
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P10",
-    "mass" : 64.84140884504829,
-    "radius" : 0.21252285908178625,
-    "distanceFromStar" : 358.82943722235706,
-    "orbitalPeriod" : 304.4767935555079
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P11",
-    "mass" : 43.9579677729256,
-    "radius" : 1.2426811076338173,
-    "distanceFromStar" : 519.9436908182697,
-    "orbitalPeriod" : 574.1284446175674
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P12",
-    "mass" : 5.166839931528866,
-    "radius" : 9.935709556021058,
-    "distanceFromStar" : 239.07933765381807,
-    "orbitalPeriod" : 265.31745513048253
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P13",
-    "mass" : 10.762492878357389,
-    "radius" : 3.823999619241948,
-    "distanceFromStar" : 960.7347727441495,
-    "orbitalPeriod" : 715.5676900802632
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P14",
-    "mass" : 74.38880552297478,
-    "radius" : 3.3974882821648844,
-    "distanceFromStar" : 883.6510790580722,
-    "orbitalPeriod" : 996.7654517207912
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P15",
-    "mass" : 33.50653929992809,
-    "radius" : 6.560252056696832,
-    "distanceFromStar" : 330.68982689697293,
-    "orbitalPeriod" : 827.1166330010388
-  }, {
-    "name" : "Gaia_EDR3_1683627775360_P16",
-    "mass" : 54.698582342180046,
-    "radius" : 4.353438384633045,
-    "distanceFromStar" : 597.3723883221213,
-    "orbitalPeriod" : 116.1002749252662
+    "mass" : 10.480768476491399,
+    "radius" : 1.0908604760900087,
+    "distanceFromStar" : 33.24692195473078,
+    "orbitalPeriod" : 283.1416598710983
   } ]
 }, {
   "name" : "Gaia EDR3 1717987078400",
@@ -1573,40 +1489,40 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1717987078400_P1",
-    "mass" : 65.50794380578743,
-    "radius" : 8.479591722400293,
-    "distanceFromStar" : 202.75201819107025,
-    "orbitalPeriod" : 609.7200135111042
+    "mass" : 49.482153253129844,
+    "radius" : 6.124085228311163,
+    "distanceFromStar" : 169.82730583084583,
+    "orbitalPeriod" : 542.0344064774622
   }, {
     "name" : "Gaia_EDR3_1717987078400_P2",
-    "mass" : 4.3032300901921,
-    "radius" : 4.492355333053808,
-    "distanceFromStar" : 582.9621689586845,
-    "orbitalPeriod" : 268.0045110192737
+    "mass" : 72.80774958823064,
+    "radius" : 8.546937740925497,
+    "distanceFromStar" : 332.2066280195954,
+    "orbitalPeriod" : 827.5474703570329
   }, {
     "name" : "Gaia_EDR3_1717987078400_P3",
-    "mass" : 85.35358816944742,
-    "radius" : 9.847111154333975,
-    "distanceFromStar" : 938.0746806190432,
-    "orbitalPeriod" : 2.7577009554499154
+    "mass" : 12.774184859061343,
+    "radius" : 2.445055797051159,
+    "distanceFromStar" : 976.6773421513662,
+    "orbitalPeriod" : 846.8676382565002
   }, {
     "name" : "Gaia_EDR3_1717987078400_P4",
-    "mass" : 15.606229074796186,
-    "radius" : 0.7572778017286896,
-    "distanceFromStar" : 574.9252879478425,
-    "orbitalPeriod" : 738.7770425323841
+    "mass" : 24.78168313442324,
+    "radius" : 1.6431418594084102,
+    "distanceFromStar" : 86.8159202768487,
+    "orbitalPeriod" : 339.7883448282292
   }, {
     "name" : "Gaia_EDR3_1717987078400_P5",
-    "mass" : 6.335810000229236,
-    "radius" : 0.5101045546558647,
-    "distanceFromStar" : 966.5577524362063,
-    "orbitalPeriod" : 320.1465829290645
+    "mass" : 74.73071504171023,
+    "radius" : 8.339357887191065,
+    "distanceFromStar" : 788.4329491727701,
+    "orbitalPeriod" : 699.675803851033
   }, {
     "name" : "Gaia_EDR3_1717987078400_P6",
-    "mass" : 92.08696629064363,
-    "radius" : 4.524846104599596,
-    "distanceFromStar" : 943.2100108345666,
-    "orbitalPeriod" : 175.287918817303
+    "mass" : 1.576992135481703,
+    "radius" : 0.8894640770719064,
+    "distanceFromStar" : 9.856537216102911,
+    "orbitalPeriod" : 316.1152596968183
   } ]
 }, {
   "name" : "Gaia EDR3 1752346816896",
@@ -1625,106 +1541,64 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1752346816896_P1",
-    "mass" : 34.27228123934618,
-    "radius" : 2.2476212015759076,
-    "distanceFromStar" : 978.6019008600432,
-    "orbitalPeriod" : 236.51285707468318
+    "mass" : 82.10151415165676,
+    "radius" : 1.57933166721001,
+    "distanceFromStar" : 804.7115663011238,
+    "orbitalPeriod" : 374.52457022720597
   }, {
     "name" : "Gaia_EDR3_1752346816896_P2",
-    "mass" : 38.817184617991394,
-    "radius" : 4.086907153994388,
-    "distanceFromStar" : 236.4656596914354,
-    "orbitalPeriod" : 548.4628089569862
+    "mass" : 84.92307951131123,
+    "radius" : 3.9058705967176888,
+    "distanceFromStar" : 65.48147832465756,
+    "orbitalPeriod" : 215.89666416538768
   }, {
     "name" : "Gaia_EDR3_1752346816896_P3",
-    "mass" : 73.23512656404459,
-    "radius" : 2.3167547262872192,
-    "distanceFromStar" : 156.0143460388109,
-    "orbitalPeriod" : 878.5829236080411
+    "mass" : 96.9033890749324,
+    "radius" : 2.0838083532180374,
+    "distanceFromStar" : 479.4376805674506,
+    "orbitalPeriod" : 215.32695384216683
   }, {
     "name" : "Gaia_EDR3_1752346816896_P4",
-    "mass" : 74.45030734292797,
-    "radius" : 9.0835504842441,
-    "distanceFromStar" : 117.05007676623535,
-    "orbitalPeriod" : 743.5055548587516
+    "mass" : 93.41560520223715,
+    "radius" : 5.103716455195864,
+    "distanceFromStar" : 452.38029131397394,
+    "orbitalPeriod" : 506.01526380086557
   }, {
     "name" : "Gaia_EDR3_1752346816896_P5",
-    "mass" : 83.17111651794987,
-    "radius" : 6.173311202196709,
-    "distanceFromStar" : 560.5856730975003,
-    "orbitalPeriod" : 245.24471682811978
+    "mass" : 16.700725979606943,
+    "radius" : 9.636581523742409,
+    "distanceFromStar" : 945.5740797576631,
+    "orbitalPeriod" : 618.5932051761343
   }, {
     "name" : "Gaia_EDR3_1752346816896_P6",
-    "mass" : 63.6298654363402,
-    "radius" : 7.523713585865245,
-    "distanceFromStar" : 131.9439034043175,
-    "orbitalPeriod" : 618.4312321055439
+    "mass" : 6.424072406972403,
+    "radius" : 5.213662425080198,
+    "distanceFromStar" : 594.9049570458636,
+    "orbitalPeriod" : 220.40473020287678
   }, {
     "name" : "Gaia_EDR3_1752346816896_P7",
-    "mass" : 10.534972771073914,
-    "radius" : 3.858628588205474,
-    "distanceFromStar" : 471.9978111122712,
-    "orbitalPeriod" : 73.06595123690552
+    "mass" : 86.6764352374026,
+    "radius" : 1.90422019109323,
+    "distanceFromStar" : 513.2724280111092,
+    "orbitalPeriod" : 679.052157027312
   }, {
     "name" : "Gaia_EDR3_1752346816896_P8",
-    "mass" : 11.549232311636315,
-    "radius" : 5.019200832317695,
-    "distanceFromStar" : 137.0510700296028,
-    "orbitalPeriod" : 463.33902748296185
+    "mass" : 19.72562480634773,
+    "radius" : 6.983123426286131,
+    "distanceFromStar" : 895.389366503317,
+    "orbitalPeriod" : 41.302473118924546
   }, {
     "name" : "Gaia_EDR3_1752346816896_P9",
-    "mass" : 56.361639291892416,
-    "radius" : 9.481520218273744,
-    "distanceFromStar" : 746.0219363581434,
-    "orbitalPeriod" : 720.2897618427724
+    "mass" : 53.32817698454711,
+    "radius" : 5.371355413148196,
+    "distanceFromStar" : 99.82434702647147,
+    "orbitalPeriod" : 863.1758777984111
   }, {
     "name" : "Gaia_EDR3_1752346816896_P10",
-    "mass" : 9.299199081372379,
-    "radius" : 7.279455842579228,
-    "distanceFromStar" : 603.0080981332944,
-    "orbitalPeriod" : 174.5584094141005
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P11",
-    "mass" : 91.42904103596135,
-    "radius" : 2.09223254462772,
-    "distanceFromStar" : 723.9738105584253,
-    "orbitalPeriod" : 865.2076503261446
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P12",
-    "mass" : 50.2300554086705,
-    "radius" : 0.6098481285127488,
-    "distanceFromStar" : 408.2149559333147,
-    "orbitalPeriod" : 681.5681155006805
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P13",
-    "mass" : 30.167172891678273,
-    "radius" : 2.455448928500692,
-    "distanceFromStar" : 238.42152828334596,
-    "orbitalPeriod" : 717.2886892188828
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P14",
-    "mass" : 95.88034886983769,
-    "radius" : 1.9222859050094465,
-    "distanceFromStar" : 667.5712455329749,
-    "orbitalPeriod" : 529.2495534914027
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P15",
-    "mass" : 1.2041577424329653,
-    "radius" : 3.5739047473468566,
-    "distanceFromStar" : 156.55189538358684,
-    "orbitalPeriod" : 88.72124742694754
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P16",
-    "mass" : 41.86289407341066,
-    "radius" : 7.359722809164367,
-    "distanceFromStar" : 163.32437001031107,
-    "orbitalPeriod" : 88.13109693656662
-  }, {
-    "name" : "Gaia_EDR3_1752346816896_P17",
-    "mass" : 77.43988456471375,
-    "radius" : 5.314175250417291,
-    "distanceFromStar" : 152.60190248828488,
-    "orbitalPeriod" : 924.0236531627983
+    "mass" : 8.039758253851225,
+    "radius" : 9.735949930463034,
+    "distanceFromStar" : 970.0354847637609,
+    "orbitalPeriod" : 953.0141590229724
   } ]
 }, {
   "name" : "Gaia EDR3 1786706818304",
@@ -1743,70 +1617,88 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_1786706818304_P1",
-    "mass" : 11.361182653667356,
-    "radius" : 1.9443576635069515,
-    "distanceFromStar" : 115.27910486218728,
-    "orbitalPeriod" : 535.378676565881
+    "mass" : 0.5191618398939557,
+    "radius" : 7.743096163491074,
+    "distanceFromStar" : 496.5539842688118,
+    "orbitalPeriod" : 102.80807441046191
   }, {
     "name" : "Gaia_EDR3_1786706818304_P2",
-    "mass" : 59.86198823933273,
-    "radius" : 6.5076118017707785,
-    "distanceFromStar" : 135.37988625372688,
-    "orbitalPeriod" : 107.89429352967439
+    "mass" : 91.57212011907009,
+    "radius" : 2.939337444806883,
+    "distanceFromStar" : 221.50601834864835,
+    "orbitalPeriod" : 768.2053508637817
   }, {
     "name" : "Gaia_EDR3_1786706818304_P3",
-    "mass" : 86.93413803637661,
-    "radius" : 9.108713534652553,
-    "distanceFromStar" : 638.4923478883219,
-    "orbitalPeriod" : 837.259371710661
+    "mass" : 3.7285259445431373,
+    "radius" : 2.6959047244624825,
+    "distanceFromStar" : 228.86797233395862,
+    "orbitalPeriod" : 452.36449025013525
   }, {
     "name" : "Gaia_EDR3_1786706818304_P4",
-    "mass" : 62.28097172252182,
-    "radius" : 1.2995207121911723,
-    "distanceFromStar" : 841.3567680466487,
-    "orbitalPeriod" : 705.1895460267014
+    "mass" : 56.13751286543744,
+    "radius" : 6.278829131259459,
+    "distanceFromStar" : 869.1754210980887,
+    "orbitalPeriod" : 898.854309349219
   }, {
     "name" : "Gaia_EDR3_1786706818304_P5",
-    "mass" : 7.770888678936871,
-    "radius" : 4.49222586681519,
-    "distanceFromStar" : 386.4559159940023,
-    "orbitalPeriod" : 177.9640279382314
+    "mass" : 75.81905980856915,
+    "radius" : 6.5305849295136404,
+    "distanceFromStar" : 574.1220488336699,
+    "orbitalPeriod" : 830.6283977423066
   }, {
     "name" : "Gaia_EDR3_1786706818304_P6",
-    "mass" : 30.478572369295907,
-    "radius" : 2.3189330334616667,
-    "distanceFromStar" : 356.6584950063878,
-    "orbitalPeriod" : 918.7477755720519
+    "mass" : 76.12060401357915,
+    "radius" : 5.434154975535392,
+    "distanceFromStar" : 867.4558854357817,
+    "orbitalPeriod" : 676.6287647914111
   }, {
     "name" : "Gaia_EDR3_1786706818304_P7",
-    "mass" : 75.31858346963007,
-    "radius" : 4.360643797075218,
-    "distanceFromStar" : 237.51067195529617,
-    "orbitalPeriod" : 981.9628658368749
+    "mass" : 15.309882015733889,
+    "radius" : 5.975399899401747,
+    "distanceFromStar" : 873.7864595780173,
+    "orbitalPeriod" : 229.87059325775948
   }, {
     "name" : "Gaia_EDR3_1786706818304_P8",
-    "mass" : 43.73435391497279,
-    "radius" : 3.6385365208355145,
-    "distanceFromStar" : 530.5752897017878,
-    "orbitalPeriod" : 49.79773426319123
+    "mass" : 94.95054095235372,
+    "radius" : 6.12434797874594,
+    "distanceFromStar" : 519.9127621078712,
+    "orbitalPeriod" : 874.2461849154511
   }, {
     "name" : "Gaia_EDR3_1786706818304_P9",
-    "mass" : 42.19074098434079,
-    "radius" : 6.754561140924405,
-    "distanceFromStar" : 409.69491425475724,
-    "orbitalPeriod" : 60.982884220527
+    "mass" : 21.86736390765177,
+    "radius" : 9.43766525279484,
+    "distanceFromStar" : 280.50962532910216,
+    "orbitalPeriod" : 526.074217210323
   }, {
     "name" : "Gaia_EDR3_1786706818304_P10",
-    "mass" : 69.62846573192397,
-    "radius" : 7.37501748469432,
-    "distanceFromStar" : 281.78187371565144,
-    "orbitalPeriod" : 403.249999813851
+    "mass" : 49.792955914138936,
+    "radius" : 0.7787032240484548,
+    "distanceFromStar" : 758.4860051654372,
+    "orbitalPeriod" : 976.4603324069344
   }, {
     "name" : "Gaia_EDR3_1786706818304_P11",
-    "mass" : 26.573926236576927,
-    "radius" : 0.8699178111815831,
-    "distanceFromStar" : 364.7140229161465,
-    "orbitalPeriod" : 693.4308232479469
+    "mass" : 37.19801529137763,
+    "radius" : 4.9581652406538,
+    "distanceFromStar" : 610.0555353327957,
+    "orbitalPeriod" : 891.8234691946249
+  }, {
+    "name" : "Gaia_EDR3_1786706818304_P12",
+    "mass" : 6.342392877707271,
+    "radius" : 0.7175719138655456,
+    "distanceFromStar" : 325.5361302711848,
+    "orbitalPeriod" : 332.48218671788675
+  }, {
+    "name" : "Gaia_EDR3_1786706818304_P13",
+    "mass" : 65.24434126269773,
+    "radius" : 2.4093435332282196,
+    "distanceFromStar" : 159.12228547568276,
+    "orbitalPeriod" : 282.9834081141078
+  }, {
+    "name" : "Gaia_EDR3_1786706818304_P14",
+    "mass" : 59.05050599416267,
+    "radius" : 6.971464424118996,
+    "distanceFromStar" : 64.3495550012213,
+    "orbitalPeriod" : 352.89566902812055
   } ]
 }, {
   "name" : "Gaia EDR3 2130304202496",
@@ -1825,40 +1717,64 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2130304202496_P1",
-    "mass" : 3.525833922977839,
-    "radius" : 4.271426479315479,
-    "distanceFromStar" : 52.94139627412409,
-    "orbitalPeriod" : 498.82734736621893
+    "mass" : 43.51329835441843,
+    "radius" : 8.366983969257872,
+    "distanceFromStar" : 503.07796536187243,
+    "orbitalPeriod" : 878.0570997873624
   }, {
     "name" : "Gaia_EDR3_2130304202496_P2",
-    "mass" : 21.08059008279126,
-    "radius" : 6.484947893155876,
-    "distanceFromStar" : 701.435645945443,
-    "orbitalPeriod" : 340.8455582944845
+    "mass" : 54.02517981945165,
+    "radius" : 7.907597874997983,
+    "distanceFromStar" : 379.97407094143455,
+    "orbitalPeriod" : 158.55092475809008
   }, {
     "name" : "Gaia_EDR3_2130304202496_P3",
-    "mass" : 14.55573256028746,
-    "radius" : 1.521790388643356,
-    "distanceFromStar" : 637.7022908974436,
-    "orbitalPeriod" : 886.786599944872
+    "mass" : 24.598689081142446,
+    "radius" : 2.0661289918986547,
+    "distanceFromStar" : 599.2715743075028,
+    "orbitalPeriod" : 870.7983662389647
   }, {
     "name" : "Gaia_EDR3_2130304202496_P4",
-    "mass" : 84.59411960712094,
-    "radius" : 1.4098034498406797,
-    "distanceFromStar" : 154.4171241659752,
-    "orbitalPeriod" : 769.2827299855978
+    "mass" : 42.923983196797934,
+    "radius" : 4.685405014365123,
+    "distanceFromStar" : 110.30370216896624,
+    "orbitalPeriod" : 948.0152356086088
   }, {
     "name" : "Gaia_EDR3_2130304202496_P5",
-    "mass" : 65.84215233022793,
-    "radius" : 7.208560827519498,
-    "distanceFromStar" : 942.1527962563755,
-    "orbitalPeriod" : 568.6854763373308
+    "mass" : 89.40207135824151,
+    "radius" : 2.889354334662392,
+    "distanceFromStar" : 593.8612833821207,
+    "orbitalPeriod" : 85.57480111745375
   }, {
     "name" : "Gaia_EDR3_2130304202496_P6",
-    "mass" : 63.84842266868992,
-    "radius" : 4.3782208497864525,
-    "distanceFromStar" : 578.0863140800531,
-    "orbitalPeriod" : 406.24563410691536
+    "mass" : 50.606923271892256,
+    "radius" : 6.612268816674478,
+    "distanceFromStar" : 698.6209632529118,
+    "orbitalPeriod" : 9.902251128263483
+  }, {
+    "name" : "Gaia_EDR3_2130304202496_P7",
+    "mass" : 48.4100761470364,
+    "radius" : 2.178828892171729,
+    "distanceFromStar" : 805.1852999072063,
+    "orbitalPeriod" : 832.6362029888503
+  }, {
+    "name" : "Gaia_EDR3_2130304202496_P8",
+    "mass" : 92.77856957516674,
+    "radius" : 4.830213605061471,
+    "distanceFromStar" : 921.7688891963498,
+    "orbitalPeriod" : 241.79686918472032
+  }, {
+    "name" : "Gaia_EDR3_2130304202496_P9",
+    "mass" : 96.8234986954407,
+    "radius" : 1.0388847966248205,
+    "distanceFromStar" : 261.8542433635643,
+    "orbitalPeriod" : 142.05170143881062
+  }, {
+    "name" : "Gaia_EDR3_2130304202496_P10",
+    "mass" : 76.3678669783275,
+    "radius" : 5.214402854680827,
+    "distanceFromStar" : 31.679750031991418,
+    "orbitalPeriod" : 497.77146119462725
   } ]
 }, {
   "name" : "Gaia EDR3 2199023259904",
@@ -1877,10 +1793,112 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2199023259904_P1",
-    "mass" : 27.23438178340136,
-    "radius" : 2.661342680623081,
-    "distanceFromStar" : 591.981682924005,
-    "orbitalPeriod" : 685.8755204971417
+    "mass" : 69.74896871619887,
+    "radius" : 9.64211509731391,
+    "distanceFromStar" : 555.420610374235,
+    "orbitalPeriod" : 904.7060911851141
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P2",
+    "mass" : 45.435724351374276,
+    "radius" : 1.762896573380457,
+    "distanceFromStar" : 325.92797422249885,
+    "orbitalPeriod" : 140.31690090990756
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P3",
+    "mass" : 70.26914237727657,
+    "radius" : 9.969288095309818,
+    "distanceFromStar" : 193.0349208874391,
+    "orbitalPeriod" : 51.5935824390309
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P4",
+    "mass" : 33.409991793013425,
+    "radius" : 5.172916211729936,
+    "distanceFromStar" : 780.2198732248112,
+    "orbitalPeriod" : 51.03555631611157
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P5",
+    "mass" : 83.74604281668557,
+    "radius" : 7.466431992386501,
+    "distanceFromStar" : 756.6497426472454,
+    "orbitalPeriod" : 98.0139697527228
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P6",
+    "mass" : 76.12561507217505,
+    "radius" : 4.236332076031314,
+    "distanceFromStar" : 91.71010760644094,
+    "orbitalPeriod" : 709.3112403186393
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P7",
+    "mass" : 98.90071771401794,
+    "radius" : 7.285419294777169,
+    "distanceFromStar" : 378.0178723961984,
+    "orbitalPeriod" : 475.2539023762098
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P8",
+    "mass" : 42.084598979325804,
+    "radius" : 3.6966504012900527,
+    "distanceFromStar" : 234.4213793888419,
+    "orbitalPeriod" : 742.6021662620012
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P9",
+    "mass" : 6.151192149418394,
+    "radius" : 7.75801288098111,
+    "distanceFromStar" : 473.3448059688424,
+    "orbitalPeriod" : 274.7733317064567
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P10",
+    "mass" : 70.35154757513378,
+    "radius" : 4.168464814491104,
+    "distanceFromStar" : 670.93496421232,
+    "orbitalPeriod" : 380.6408658460572
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P11",
+    "mass" : 36.39505508262444,
+    "radius" : 5.957855901810856,
+    "distanceFromStar" : 13.820424564325862,
+    "orbitalPeriod" : 215.06435705055816
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P12",
+    "mass" : 38.44087911457428,
+    "radius" : 4.079147016140724,
+    "distanceFromStar" : 812.8942507130921,
+    "orbitalPeriod" : 697.4700579448769
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P13",
+    "mass" : 63.567694916443095,
+    "radius" : 9.46912858161039,
+    "distanceFromStar" : 872.383425819116,
+    "orbitalPeriod" : 769.215710224602
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P14",
+    "mass" : 58.237481754964826,
+    "radius" : 2.5242337215213917,
+    "distanceFromStar" : 981.5693165527113,
+    "orbitalPeriod" : 516.1371875760492
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P15",
+    "mass" : 5.7417821654136,
+    "radius" : 9.400930833306274,
+    "distanceFromStar" : 156.87524450314638,
+    "orbitalPeriod" : 19.58896117552611
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P16",
+    "mass" : 47.21644923313624,
+    "radius" : 9.325570804604912,
+    "distanceFromStar" : 903.6389525097069,
+    "orbitalPeriod" : 667.4539351372367
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P17",
+    "mass" : 84.53365871769512,
+    "radius" : 2.186455448659299,
+    "distanceFromStar" : 689.7390043939581,
+    "orbitalPeriod" : 56.01284346295732
+  }, {
+    "name" : "Gaia_EDR3_2199023259904_P18",
+    "mass" : 47.227501796805015,
+    "radius" : 1.0812823303441954,
+    "distanceFromStar" : 27.345968623282868,
+    "orbitalPeriod" : 544.226910345095
   } ]
 }, {
   "name" : "Gaia EDR3 2199023292160",
@@ -1899,40 +1917,34 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2199023292160_P1",
-    "mass" : 79.77845742864741,
-    "radius" : 4.285855831267321,
-    "distanceFromStar" : 836.7921421308995,
-    "orbitalPeriod" : 802.4102510610184
+    "mass" : 2.060151722210668,
+    "radius" : 0.44420462218997314,
+    "distanceFromStar" : 983.9019084482165,
+    "orbitalPeriod" : 881.0973828087649
   }, {
     "name" : "Gaia_EDR3_2199023292160_P2",
-    "mass" : 83.66823438578047,
-    "radius" : 8.20566206737608,
-    "distanceFromStar" : 473.8001156615135,
-    "orbitalPeriod" : 650.4014048571678
+    "mass" : 44.96618936283679,
+    "radius" : 1.941824694704033,
+    "distanceFromStar" : 142.36577883928837,
+    "orbitalPeriod" : 238.65910810705958
   }, {
     "name" : "Gaia_EDR3_2199023292160_P3",
-    "mass" : 79.50672022109634,
-    "radius" : 1.669327115028686,
-    "distanceFromStar" : 873.0066351858293,
-    "orbitalPeriod" : 677.1017304299514
+    "mass" : 37.72982385392879,
+    "radius" : 7.9862659697933625,
+    "distanceFromStar" : 858.7056760594795,
+    "orbitalPeriod" : 184.02337279731196
   }, {
     "name" : "Gaia_EDR3_2199023292160_P4",
-    "mass" : 76.64476373652207,
-    "radius" : 1.260711554957793,
-    "distanceFromStar" : 712.064969107598,
-    "orbitalPeriod" : 820.8931649710306
+    "mass" : 7.847561549353388,
+    "radius" : 4.512610890283021,
+    "distanceFromStar" : 30.275088040784937,
+    "orbitalPeriod" : 666.2355571613633
   }, {
     "name" : "Gaia_EDR3_2199023292160_P5",
-    "mass" : 20.64378128895421,
-    "radius" : 2.3306963226723774,
-    "distanceFromStar" : 929.0588888130544,
-    "orbitalPeriod" : 276.3672582221186
-  }, {
-    "name" : "Gaia_EDR3_2199023292160_P6",
-    "mass" : 31.247056462835143,
-    "radius" : 0.22598438829507517,
-    "distanceFromStar" : 885.8694808634375,
-    "orbitalPeriod" : 54.41206718395697
+    "mass" : 95.21707763829347,
+    "radius" : 9.145985298734985,
+    "distanceFromStar" : 113.09469214595435,
+    "orbitalPeriod" : 504.1682275884325
   } ]
 }, {
   "name" : "Gaia EDR3 2267742736896",
@@ -1951,40 +1963,88 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2267742736896_P1",
-    "mass" : 26.45537609971864,
-    "radius" : 0.46015830355674026,
-    "distanceFromStar" : 615.2829712198118,
-    "orbitalPeriod" : 439.21624536735595
+    "mass" : 3.952862633458587,
+    "radius" : 9.37936002974261,
+    "distanceFromStar" : 436.444801977635,
+    "orbitalPeriod" : 273.6479391298917
   }, {
     "name" : "Gaia_EDR3_2267742736896_P2",
-    "mass" : 15.502459756862741,
-    "radius" : 5.888752984355463,
-    "distanceFromStar" : 952.8614238835638,
-    "orbitalPeriod" : 860.9124321265206
+    "mass" : 40.65548230154299,
+    "radius" : 2.9328953363019505,
+    "distanceFromStar" : 919.3652919311857,
+    "orbitalPeriod" : 607.8662591854634
   }, {
     "name" : "Gaia_EDR3_2267742736896_P3",
-    "mass" : 82.17441597899115,
-    "radius" : 1.25352576023396,
-    "distanceFromStar" : 40.53282398866909,
-    "orbitalPeriod" : 939.7761568493994
+    "mass" : 84.29779159347754,
+    "radius" : 9.070843602048287,
+    "distanceFromStar" : 596.9369630422051,
+    "orbitalPeriod" : 366.0583552343135
   }, {
     "name" : "Gaia_EDR3_2267742736896_P4",
-    "mass" : 30.103898411842135,
-    "radius" : 9.544816436072814,
-    "distanceFromStar" : 862.5907840651715,
-    "orbitalPeriod" : 458.61311249054137
+    "mass" : 70.54613578775535,
+    "radius" : 1.70939327933604,
+    "distanceFromStar" : 618.0889573140505,
+    "orbitalPeriod" : 791.8075076994173
   }, {
     "name" : "Gaia_EDR3_2267742736896_P5",
-    "mass" : 22.23898006628231,
-    "radius" : 1.0610789541472365,
-    "distanceFromStar" : 349.8019173692153,
-    "orbitalPeriod" : 619.1423123319092
+    "mass" : 83.4014888419514,
+    "radius" : 1.9389088552046585,
+    "distanceFromStar" : 8.37724439648635,
+    "orbitalPeriod" : 32.45305494919681
   }, {
     "name" : "Gaia_EDR3_2267742736896_P6",
-    "mass" : 79.7070846657755,
-    "radius" : 7.51712526966948,
-    "distanceFromStar" : 413.74176722837984,
-    "orbitalPeriod" : 234.62027022923937
+    "mass" : 38.128420673140084,
+    "radius" : 5.469555820150839,
+    "distanceFromStar" : 116.96198397530321,
+    "orbitalPeriod" : 21.379297108386595
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P7",
+    "mass" : 30.01363346663234,
+    "radius" : 3.6555048269926447,
+    "distanceFromStar" : 754.36651524191,
+    "orbitalPeriod" : 293.25081829873557
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P8",
+    "mass" : 13.28816458626958,
+    "radius" : 3.137080290589237,
+    "distanceFromStar" : 12.503565328415679,
+    "orbitalPeriod" : 41.30625817543443
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P9",
+    "mass" : 88.70751726259445,
+    "radius" : 2.8218613351907207,
+    "distanceFromStar" : 915.6808405961285,
+    "orbitalPeriod" : 734.6126462289693
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P10",
+    "mass" : 20.56915822723475,
+    "radius" : 5.91988489317552,
+    "distanceFromStar" : 989.774470775193,
+    "orbitalPeriod" : 653.2208022471295
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P11",
+    "mass" : 74.35691251489128,
+    "radius" : 9.054741449852857,
+    "distanceFromStar" : 556.4861870771381,
+    "orbitalPeriod" : 770.4512834558153
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P12",
+    "mass" : 64.73705798931353,
+    "radius" : 0.0914901356099207,
+    "distanceFromStar" : 60.575248976784565,
+    "orbitalPeriod" : 514.080221203305
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P13",
+    "mass" : 30.290919791047322,
+    "radius" : 1.253968427279214,
+    "distanceFromStar" : 20.184384605646088,
+    "orbitalPeriod" : 71.98233620247285
+  }, {
+    "name" : "Gaia_EDR3_2267742736896_P14",
+    "mass" : 6.1540913495732985,
+    "radius" : 4.348205217054869,
+    "distanceFromStar" : 253.85401381979955,
+    "orbitalPeriod" : 72.82841500794358
   } ]
 }, {
   "name" : "Gaia EDR3 2336462213888",
@@ -2003,40 +2063,58 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2336462213888_P1",
-    "mass" : 43.36047385073226,
-    "radius" : 9.317387988370715,
-    "distanceFromStar" : 293.46055942449624,
-    "orbitalPeriod" : 548.2619464980752
+    "mass" : 4.652888775017205,
+    "radius" : 8.825466967622113,
+    "distanceFromStar" : 668.723203917931,
+    "orbitalPeriod" : 769.8016500493418
   }, {
     "name" : "Gaia_EDR3_2336462213888_P2",
-    "mass" : 96.21219807817249,
-    "radius" : 9.7274070045556,
-    "distanceFromStar" : 579.9147415650078,
-    "orbitalPeriod" : 713.6968737258618
+    "mass" : 74.06185105469305,
+    "radius" : 2.3097986220288993,
+    "distanceFromStar" : 274.20850506846637,
+    "orbitalPeriod" : 364.0577270240609
   }, {
     "name" : "Gaia_EDR3_2336462213888_P3",
-    "mass" : 76.11418160342694,
-    "radius" : 7.741426180817795,
-    "distanceFromStar" : 609.1690908014032,
-    "orbitalPeriod" : 32.64073072027451
+    "mass" : 42.52636060522196,
+    "radius" : 1.597912370516732,
+    "distanceFromStar" : 474.84597328779444,
+    "orbitalPeriod" : 542.1602825681252
   }, {
     "name" : "Gaia_EDR3_2336462213888_P4",
-    "mass" : 90.41236680762091,
-    "radius" : 9.805946516900098,
-    "distanceFromStar" : 736.7510798075253,
-    "orbitalPeriod" : 317.0770907190865
+    "mass" : 40.02415439826789,
+    "radius" : 5.485384533316094,
+    "distanceFromStar" : 908.6324910278707,
+    "orbitalPeriod" : 557.1932365811516
   }, {
     "name" : "Gaia_EDR3_2336462213888_P5",
-    "mass" : 7.606263022052628,
-    "radius" : 4.380318891468229,
-    "distanceFromStar" : 935.9285167413741,
-    "orbitalPeriod" : 959.6545329665603
+    "mass" : 19.938544125729017,
+    "radius" : 6.192605465584931,
+    "distanceFromStar" : 244.7904861785838,
+    "orbitalPeriod" : 306.0408491534906
   }, {
     "name" : "Gaia_EDR3_2336462213888_P6",
-    "mass" : 22.115097617992106,
-    "radius" : 3.996467705033928,
-    "distanceFromStar" : 401.82309079097,
-    "orbitalPeriod" : 83.95342034090714
+    "mass" : 99.63692263072433,
+    "radius" : 5.413055378765929,
+    "distanceFromStar" : 737.0144401649926,
+    "orbitalPeriod" : 918.884452025386
+  }, {
+    "name" : "Gaia_EDR3_2336462213888_P7",
+    "mass" : 30.13949123131371,
+    "radius" : 2.903553839810119,
+    "distanceFromStar" : 212.04402039936443,
+    "orbitalPeriod" : 494.02511441747623
+  }, {
+    "name" : "Gaia_EDR3_2336462213888_P8",
+    "mass" : 95.07656476369219,
+    "radius" : 0.48055167848538805,
+    "distanceFromStar" : 769.4731658616632,
+    "orbitalPeriod" : 276.64635732128863
+  }, {
+    "name" : "Gaia_EDR3_2336462213888_P9",
+    "mass" : 19.699220874768166,
+    "radius" : 5.233813042985654,
+    "distanceFromStar" : 914.9936980643109,
+    "orbitalPeriod" : 940.4829173606396
   } ]
 }, {
   "name" : "Gaia EDR3 2405181690752",
@@ -2053,85 +2131,7 @@
     "dr2RadialVelocity" : 0.0,
     "bpRp" : 2.0802002
   },
-  "planets" : [ {
-    "name" : "Gaia_EDR3_2405181690752_P1",
-    "mass" : 34.52506456232417,
-    "radius" : 8.37249584476225,
-    "distanceFromStar" : 493.21583195491127,
-    "orbitalPeriod" : 300.0539004485062
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P2",
-    "mass" : 74.14473729080132,
-    "radius" : 0.028304147727817863,
-    "distanceFromStar" : 913.4182482864377,
-    "orbitalPeriod" : 795.9602063326455
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P3",
-    "mass" : 97.72685837772313,
-    "radius" : 8.727250502872,
-    "distanceFromStar" : 199.4190331426795,
-    "orbitalPeriod" : 936.1392660072303
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P4",
-    "mass" : 39.839715089012785,
-    "radius" : 5.273521038021603,
-    "distanceFromStar" : 627.0138125788563,
-    "orbitalPeriod" : 499.87898890926743
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P5",
-    "mass" : 83.28312259732822,
-    "radius" : 7.357716179670424,
-    "distanceFromStar" : 129.08372115053646,
-    "orbitalPeriod" : 311.2597960093786
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P6",
-    "mass" : 25.181848873442945,
-    "radius" : 0.3293365393125347,
-    "distanceFromStar" : 350.62251654990695,
-    "orbitalPeriod" : 574.3457233943726
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P7",
-    "mass" : 24.2116423601767,
-    "radius" : 9.807886060490578,
-    "distanceFromStar" : 695.2810495389923,
-    "orbitalPeriod" : 601.3592373598306
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P8",
-    "mass" : 77.9111155057193,
-    "radius" : 2.1729370204754375,
-    "distanceFromStar" : 115.16817928691647,
-    "orbitalPeriod" : 319.6120689167662
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P9",
-    "mass" : 38.50535671486609,
-    "radius" : 8.436391605635464,
-    "distanceFromStar" : 255.9991931969502,
-    "orbitalPeriod" : 779.8789555388732
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P10",
-    "mass" : 13.264892631292636,
-    "radius" : 6.775564667207777,
-    "distanceFromStar" : 711.2847690666205,
-    "orbitalPeriod" : 257.06519025821416
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P11",
-    "mass" : 11.14614575378532,
-    "radius" : 9.093605490630175,
-    "distanceFromStar" : 562.1041052514288,
-    "orbitalPeriod" : 433.4327102876234
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P12",
-    "mass" : 91.3073090317051,
-    "radius" : 7.374163887121052,
-    "distanceFromStar" : 83.10846866680666,
-    "orbitalPeriod" : 585.3139138703099
-  }, {
-    "name" : "Gaia_EDR3_2405181690752_P13",
-    "mass" : 41.0661452252891,
-    "radius" : 6.310098071619756,
-    "distanceFromStar" : 480.7520923537806,
-    "orbitalPeriod" : 656.1558359034066
-  } ]
+  "planets" : [ ]
 }, {
   "name" : "Gaia EDR3 2512556873600",
   "star" : {
@@ -2149,76 +2149,58 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2512556873600_P1",
-    "mass" : 97.11412815067713,
-    "radius" : 7.963496106254904,
-    "distanceFromStar" : 591.9023328545804,
-    "orbitalPeriod" : 628.2218925226823
+    "mass" : 32.68109066637756,
+    "radius" : 2.7296377106038316,
+    "distanceFromStar" : 840.1257981014161,
+    "orbitalPeriod" : 193.96390569610944
   }, {
     "name" : "Gaia_EDR3_2512556873600_P2",
-    "mass" : 95.35507294403082,
-    "radius" : 6.544102341847038,
-    "distanceFromStar" : 339.13481520014756,
-    "orbitalPeriod" : 930.2726856537046
+    "mass" : 96.37578443732293,
+    "radius" : 4.87247748799648,
+    "distanceFromStar" : 541.1537879666057,
+    "orbitalPeriod" : 764.5299762947474
   }, {
     "name" : "Gaia_EDR3_2512556873600_P3",
-    "mass" : 80.3319873823323,
-    "radius" : 3.6580074112056247,
-    "distanceFromStar" : 462.05715729734334,
-    "orbitalPeriod" : 777.4900898018707
+    "mass" : 76.36739847467736,
+    "radius" : 5.886732953878079,
+    "distanceFromStar" : 986.0120960589137,
+    "orbitalPeriod" : 900.689313549716
   }, {
     "name" : "Gaia_EDR3_2512556873600_P4",
-    "mass" : 54.66886771217428,
-    "radius" : 0.05640974768859941,
-    "distanceFromStar" : 421.3238210594056,
-    "orbitalPeriod" : 493.9921018234492
+    "mass" : 75.19027021662818,
+    "radius" : 7.0849416160686305,
+    "distanceFromStar" : 990.0306797693402,
+    "orbitalPeriod" : 706.8756549211336
   }, {
     "name" : "Gaia_EDR3_2512556873600_P5",
-    "mass" : 81.32603748356391,
-    "radius" : 4.77436761943757,
-    "distanceFromStar" : 175.8748120528788,
-    "orbitalPeriod" : 543.5681982053733
+    "mass" : 98.23019925654847,
+    "radius" : 0.8437510460847908,
+    "distanceFromStar" : 53.53274526540186,
+    "orbitalPeriod" : 253.6258630539764
   }, {
     "name" : "Gaia_EDR3_2512556873600_P6",
-    "mass" : 40.05594849490438,
-    "radius" : 2.4780709770591027,
-    "distanceFromStar" : 918.3542667811747,
-    "orbitalPeriod" : 608.3516110237389
+    "mass" : 36.695049410194066,
+    "radius" : 4.149730694065435,
+    "distanceFromStar" : 8.092691056121538,
+    "orbitalPeriod" : 42.402481729281185
   }, {
     "name" : "Gaia_EDR3_2512556873600_P7",
-    "mass" : 62.29461005229363,
-    "radius" : 3.902638041226526,
-    "distanceFromStar" : 435.3549881483629,
-    "orbitalPeriod" : 827.3892138748926
+    "mass" : 11.577150885054477,
+    "radius" : 6.450307427387764,
+    "distanceFromStar" : 978.4154266908739,
+    "orbitalPeriod" : 601.3835120417729
   }, {
     "name" : "Gaia_EDR3_2512556873600_P8",
-    "mass" : 78.81783957750353,
-    "radius" : 8.118534054582007,
-    "distanceFromStar" : 795.6435889827941,
-    "orbitalPeriod" : 104.56380757257821
+    "mass" : 20.358540917777102,
+    "radius" : 8.477611421091838,
+    "distanceFromStar" : 624.7112591901091,
+    "orbitalPeriod" : 602.1422090690558
   }, {
     "name" : "Gaia_EDR3_2512556873600_P9",
-    "mass" : 49.745468012535355,
-    "radius" : 0.5307274541164886,
-    "distanceFromStar" : 812.6864487384538,
-    "orbitalPeriod" : 927.5492565735406
-  }, {
-    "name" : "Gaia_EDR3_2512556873600_P10",
-    "mass" : 84.85557597765361,
-    "radius" : 8.493212030432023,
-    "distanceFromStar" : 2.2097885428277175,
-    "orbitalPeriod" : 452.9561850154536
-  }, {
-    "name" : "Gaia_EDR3_2512556873600_P11",
-    "mass" : 3.6746516041816224,
-    "radius" : 7.212539283480863,
-    "distanceFromStar" : 561.1916393207779,
-    "orbitalPeriod" : 707.5524415416096
-  }, {
-    "name" : "Gaia_EDR3_2512556873600_P12",
-    "mass" : 29.438535975506717,
-    "radius" : 2.2175219684357703,
-    "distanceFromStar" : 231.59760316096967,
-    "orbitalPeriod" : 631.4183741534162
+    "mass" : 0.9640795873793517,
+    "radius" : 7.62903266907788,
+    "distanceFromStar" : 748.6047718794372,
+    "orbitalPeriod" : 794.367072237323
   } ]
 }, {
   "name" : "Gaia EDR3 2546916445184",
@@ -2235,73 +2217,7 @@
     "dr2RadialVelocity" : 0.0,
     "bpRp" : 1.0545597
   },
-  "planets" : [ {
-    "name" : "Gaia_EDR3_2546916445184_P1",
-    "mass" : 10.882889423690312,
-    "radius" : 7.8033607450356515,
-    "distanceFromStar" : 346.1247427787887,
-    "orbitalPeriod" : 998.2116449460013
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P2",
-    "mass" : 63.663743949640185,
-    "radius" : 2.2632285938257644,
-    "distanceFromStar" : 469.4964869329172,
-    "orbitalPeriod" : 255.5054607180698
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P3",
-    "mass" : 36.085598033263885,
-    "radius" : 8.762091627953913,
-    "distanceFromStar" : 518.2527907074115,
-    "orbitalPeriod" : 460.9823979016907
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P4",
-    "mass" : 34.00682072458998,
-    "radius" : 6.922410490222369,
-    "distanceFromStar" : 440.79054826753503,
-    "orbitalPeriod" : 642.7056575525546
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P5",
-    "mass" : 38.13654391199878,
-    "radius" : 5.088822405425965,
-    "distanceFromStar" : 104.60404263493616,
-    "orbitalPeriod" : 416.8928710010791
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P6",
-    "mass" : 2.624474619501649,
-    "radius" : 1.3924661077975475,
-    "distanceFromStar" : 126.31155292998176,
-    "orbitalPeriod" : 695.8200252356636
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P7",
-    "mass" : 30.198072579603497,
-    "radius" : 4.680504392314356,
-    "distanceFromStar" : 776.9846489498544,
-    "orbitalPeriod" : 78.42747756708057
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P8",
-    "mass" : 87.39990511338748,
-    "radius" : 2.147088353230858,
-    "distanceFromStar" : 821.4540923316275,
-    "orbitalPeriod" : 287.42794748568525
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P9",
-    "mass" : 12.638205243963363,
-    "radius" : 1.683644627543367,
-    "distanceFromStar" : 57.49107348961957,
-    "orbitalPeriod" : 775.5058415540346
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P10",
-    "mass" : 87.04881870751481,
-    "radius" : 3.460510757972781,
-    "distanceFromStar" : 9.24102127270421,
-    "orbitalPeriod" : 413.2359514004755
-  }, {
-    "name" : "Gaia_EDR3_2546916445184_P11",
-    "mass" : 83.57684004856387,
-    "radius" : 7.058584592730651,
-    "distanceFromStar" : 699.0118133665328,
-    "orbitalPeriod" : 992.6387617952939
-  } ]
+  "planets" : [ ]
 }, {
   "name" : "Gaia EDR3 2748779106176",
   "star" : {
@@ -2319,99 +2235,87 @@
   },
   "planets" : [ {
     "name" : "Gaia_EDR3_2748779106176_P1",
-    "mass" : 75.88789659671227,
-    "radius" : 6.7249641495423065,
-    "distanceFromStar" : 132.82873425485832,
-    "orbitalPeriod" : 490.474455067907
+    "mass" : 99.503017216111,
+    "radius" : 7.442476407057041,
+    "distanceFromStar" : 380.9014269908242,
+    "orbitalPeriod" : 143.9958388188648
   }, {
     "name" : "Gaia_EDR3_2748779106176_P2",
-    "mass" : 66.6880533664749,
-    "radius" : 4.847355374604984,
-    "distanceFromStar" : 58.00085752035411,
-    "orbitalPeriod" : 783.5272021072966
+    "mass" : 56.32293073969552,
+    "radius" : 8.31879455216831,
+    "distanceFromStar" : 535.5328075997036,
+    "orbitalPeriod" : 528.5459188212997
   }, {
     "name" : "Gaia_EDR3_2748779106176_P3",
-    "mass" : 18.706458872288312,
-    "radius" : 6.676028467505662,
-    "distanceFromStar" : 633.0399117298996,
-    "orbitalPeriod" : 112.89846658426205
+    "mass" : 55.18830888837215,
+    "radius" : 2.1401709494310595,
+    "distanceFromStar" : 783.1436018568672,
+    "orbitalPeriod" : 873.1451682307471
   }, {
     "name" : "Gaia_EDR3_2748779106176_P4",
-    "mass" : 13.093180951208083,
-    "radius" : 7.943217727977483,
-    "distanceFromStar" : 988.3259652216425,
-    "orbitalPeriod" : 602.7667725439943
+    "mass" : 80.65709178582922,
+    "radius" : 4.907314310995861,
+    "distanceFromStar" : 540.7701352326628,
+    "orbitalPeriod" : 760.3928649901848
   }, {
     "name" : "Gaia_EDR3_2748779106176_P5",
-    "mass" : 84.11921108922955,
-    "radius" : 6.324995127051174,
-    "distanceFromStar" : 42.84856696740391,
-    "orbitalPeriod" : 386.89740618978664
+    "mass" : 91.21665004251048,
+    "radius" : 6.2800343158285035,
+    "distanceFromStar" : 756.8407332457466,
+    "orbitalPeriod" : 922.9259926253978
   }, {
     "name" : "Gaia_EDR3_2748779106176_P6",
-    "mass" : 55.8820310952167,
-    "radius" : 5.343904058703858,
-    "distanceFromStar" : 243.5314202810235,
-    "orbitalPeriod" : 96.20004222563605
+    "mass" : 27.844306432102396,
+    "radius" : 2.8301376096771014,
+    "distanceFromStar" : 495.240336869494,
+    "orbitalPeriod" : 962.8474182608492
   }, {
     "name" : "Gaia_EDR3_2748779106176_P7",
-    "mass" : 45.1771625922533,
-    "radius" : 1.515773152044898,
-    "distanceFromStar" : 878.7079666903276,
-    "orbitalPeriod" : 458.80572604544676
+    "mass" : 10.407457197757363,
+    "radius" : 0.5486351303055959,
+    "distanceFromStar" : 793.660219330278,
+    "orbitalPeriod" : 41.52275115264692
   }, {
     "name" : "Gaia_EDR3_2748779106176_P8",
-    "mass" : 50.75364450632743,
-    "radius" : 2.8098638888616656,
-    "distanceFromStar" : 394.9778075262005,
-    "orbitalPeriod" : 909.9104177688081
+    "mass" : 37.23837899415066,
+    "radius" : 3.406883873019151,
+    "distanceFromStar" : 895.3848604909766,
+    "orbitalPeriod" : 778.7895493186713
   }, {
     "name" : "Gaia_EDR3_2748779106176_P9",
-    "mass" : 45.36273983781588,
-    "radius" : 1.5012708161632315,
-    "distanceFromStar" : 249.2127100469742,
-    "orbitalPeriod" : 375.23386006040926
+    "mass" : 93.16021303025359,
+    "radius" : 4.156050017663066,
+    "distanceFromStar" : 993.7061716183624,
+    "orbitalPeriod" : 304.7249573937488
   }, {
     "name" : "Gaia_EDR3_2748779106176_P10",
-    "mass" : 36.32554535836894,
-    "radius" : 7.316756423318857,
-    "distanceFromStar" : 961.2699639497815,
-    "orbitalPeriod" : 939.7946189267659
+    "mass" : 14.307009985745566,
+    "radius" : 0.746546104866942,
+    "distanceFromStar" : 699.4453431428616,
+    "orbitalPeriod" : 392.46895796111994
   }, {
     "name" : "Gaia_EDR3_2748779106176_P11",
-    "mass" : 62.78665589147675,
-    "radius" : 7.40997365622229,
-    "distanceFromStar" : 198.01031134121806,
-    "orbitalPeriod" : 942.8027088998334
+    "mass" : 54.272173727207075,
+    "radius" : 6.758861037202275,
+    "distanceFromStar" : 544.6005728188928,
+    "orbitalPeriod" : 867.202168263633
   }, {
     "name" : "Gaia_EDR3_2748779106176_P12",
-    "mass" : 53.38738158076155,
-    "radius" : 8.14928730104305,
-    "distanceFromStar" : 915.5059444210606,
-    "orbitalPeriod" : 149.82387217443616
+    "mass" : 45.43595609284119,
+    "radius" : 7.05946630198503,
+    "distanceFromStar" : 968.9288895005658,
+    "orbitalPeriod" : 34.228575605938836
   }, {
     "name" : "Gaia_EDR3_2748779106176_P13",
-    "mass" : 76.78345852353696,
-    "radius" : 9.9611793997584,
-    "distanceFromStar" : 813.8640261990022,
-    "orbitalPeriod" : 44.97046106333602
+    "mass" : 51.76416432259005,
+    "radius" : 0.5302491390101471,
+    "distanceFromStar" : 401.3090297124948,
+    "orbitalPeriod" : 698.2151802538218
   }, {
     "name" : "Gaia_EDR3_2748779106176_P14",
-    "mass" : 79.24856196528394,
-    "radius" : 0.5444820173443887,
-    "distanceFromStar" : 617.8798155796683,
-    "orbitalPeriod" : 958.7254332618055
-  }, {
-    "name" : "Gaia_EDR3_2748779106176_P15",
-    "mass" : 18.546399766883013,
-    "radius" : 3.655451527459138,
-    "distanceFromStar" : 986.7723039351708,
-    "orbitalPeriod" : 701.1080310588115
-  }, {
-    "name" : "Gaia_EDR3_2748779106176_P16",
-    "mass" : 71.32049514225125,
-    "radius" : 0.3609615560739554,
-    "distanceFromStar" : 177.54487698243426,
-    "orbitalPeriod" : 605.2407886782486
+    "mass" : 64.93658200569537,
+    "radius" : 0.16718700105323392,
+    "distanceFromStar" : 244.02096790590778,
+    "orbitalPeriod" : 455.9922787244857
   } ]
 } ]
